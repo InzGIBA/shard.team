@@ -355,12 +355,62 @@ body { font-family: 'Inter', sans-serif; }
           реализации вашей идеи.
         </p>
 
-        <form class="max-w-md mx-auto flex flex-col gap-4">
-          <input type="email" placeholder="Ваш Email" class="w-full px-4 py-3 bg-slate-950 border border-white/10 rounded-lg focus:outline-none focus:border-blue-500 focus:ring-1 focus:ring-blue-500 text-sm text-white placeholder:text-slate-600 transition-all">
-          <button type="button" class="w-full px-4 py-3 bg-white text-slate-950 font-medium text-sm rounded-lg hover:bg-slate-200 transition-colors">
-            Начать обсуждение
+        <iframe name="hidden_iframe" style="display:none;"></iframe>
+
+        <form
+          action="https://docs.google.com/forms/d/e/1FAIpQLSfNAtLvGJMztRMf_xXQ1JhX10XaL2VdDzdwbSfK8aE2yeynEg/formResponse"
+          method="POST"
+          target="hidden_iframe"
+          class="max-w-md mx-auto flex flex-col gap-4 text-left"
+          onsubmit="this.style.display='none'; document.getElementById('success').style.display='block';"
+        >
+          <label class="flex flex-col gap-2 text-sm text-slate-400">
+            Имя
+            <input
+              name="entry.539847253"
+              type="text"
+              required
+              placeholder="Ваше имя"
+              class="w-full px-4 py-3 bg-slate-950 border border-white/10 rounded-lg focus:outline-none focus:border-blue-500 focus:ring-1 focus:ring-blue-500 text-sm text-white placeholder:text-slate-600 transition-all"
+            >
+          </label>
+
+          <label class="flex flex-col gap-2 text-sm text-slate-400">
+            Email
+            <input
+              name="entry.1682080009"
+              type="email"
+              required
+              placeholder="Ваш Email"
+              class="w-full px-4 py-3 bg-slate-950 border border-white/10 rounded-lg focus:outline-none focus:border-blue-500 focus:ring-1 focus:ring-blue-500 text-sm text-white placeholder:text-slate-600 transition-all"
+            >
+          </label>
+
+          <label class="flex flex-col gap-2 text-sm text-slate-400">
+            Сообщение
+            <textarea
+              name="entry.1303650424"
+              rows="4"
+              placeholder="Кратко опишите проект"
+              class="w-full px-4 py-3 bg-slate-950 border border-white/10 rounded-lg focus:outline-none focus:border-blue-500 focus:ring-1 focus:ring-blue-500 text-sm text-white placeholder:text-slate-600 transition-all resize-none"
+            ></textarea>
+          </label>
+
+          <button
+            type="submit"
+            class="w-full px-4 py-3 bg-white text-slate-950 font-medium text-sm rounded-lg hover:bg-slate-200 transition-colors"
+          >
+            Отправить заявку
           </button>
         </form>
+
+        <p
+          id="success"
+          style="display:none;"
+          class="max-w-md mx-auto px-4 py-3 rounded-lg border border-green-500/20 bg-green-500/10 text-green-300 text-sm"
+        >
+          Спасибо, заявка отправлена.
+        </p>
       </div>
     </section>
 
