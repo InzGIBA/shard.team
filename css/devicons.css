@@ -1,0 +1,6928 @@
+
+/*!
+ *  Devicons 1.8.0 made by Theodore Vorillas / http://vorillaz.com 
+ */
+
+@font-face {
+  font-family: "Devicons";
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url(../fonts/devicons.woff2) format("woff2");
+}
+
+.devicons {
+  font-family: "devicons";
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.devicons {
+  font-weight: 400;
+}
+
+    .devicons-adonisjs-icon:before {
+      content: "\f102";
+    }
+  
+    .devicons-adonisjs:before {
+      content: "\f101";
+    }
+  
+    .devicons-adyen:before {
+      content: "\f103";
+    }
+  
+    .devicons-aerospike-icon:before {
+      content: "\f105";
+    }
+  
+    .devicons-aerospike:before {
+      content: "\f104";
+    }
+  
+    .devicons-aha:before {
+      content: "\f106";
+    }
+  
+    .devicons-airbrake:before {
+      content: "\f107";
+    }
+  
+    .devicons-airflow-icon:before {
+      content: "\f109";
+    }
+  
+    .devicons-airflow:before {
+      content: "\f108";
+    }
+  
+    .devicons-airtable:before {
+      content: "\f10a";
+    }
+  
+    .devicons-aix:before {
+      content: "\f10b";
+    }
+  
+    .devicons-akamai:before {
+      content: "\f10c";
+    }
+  
+    .devicons-algolia-icon:before {
+      content: "\f10e";
+    }
+  
+    .devicons-algolia:before {
+      content: "\f10d";
+    }
+  
+    .devicons-alpinejs-icon:before {
+      content: "\f110";
+    }
+  
+    .devicons-alpinejs:before {
+      content: "\f10f";
+    }
+  
+    .devicons-altair:before {
+      content: "\f111";
+    }
+  
+    .devicons-amazon-connect:before {
+      content: "\f112";
+    }
+  
+    .devicons-amd:before {
+      content: "\f113";
+    }
+  
+    .devicons-amp-icon:before {
+      content: "\f115";
+    }
+  
+    .devicons-amp:before {
+      content: "\f114";
+    }
+  
+    .devicons-ampersand:before {
+      content: "\f116";
+    }
+  
+    .devicons-amplication-icon:before {
+      content: "\f118";
+    }
+  
+    .devicons-amplication:before {
+      content: "\f117";
+    }
+  
+    .devicons-amplitude-icon:before {
+      content: "\f11a";
+    }
+  
+    .devicons-amplitude:before {
+      content: "\f119";
+    }
+  
+    .devicons-analog:before {
+      content: "\f11b";
+    }
+  
+    .devicons-android-icon:before {
+      content: "\f11d";
+    }
+  
+    .devicons-android:before {
+      content: "\f11c";
+    }
+  
+    .devicons-angular-icon:before {
+      content: "\f11f";
+    }
+  
+    .devicons-angular:before {
+      content: "\f11e";
+    }
+  
+    .devicons-ansible:before {
+      content: "\f120";
+    }
+  
+    .devicons-ant-design:before {
+      content: "\f121";
+    }
+  
+    .devicons-anthropic-icon:before {
+      content: "\f123";
+    }
+  
+    .devicons-anthropic:before {
+      content: "\f122";
+    }
+  
+    .devicons-apache-camel:before {
+      content: "\f125";
+    }
+  
+    .devicons-apache-flink-icon:before {
+      content: "\f126";
+    }
+  
+    .devicons-apache-spark:before {
+      content: "\f127";
+    }
+  
+    .devicons-apache-superset-icon:before {
+      content: "\f129";
+    }
+  
+    .devicons-apache-superset:before {
+      content: "\f128";
+    }
+  
+    .devicons-apache:before {
+      content: "\f124";
+    }
+  
+    .devicons-apache_cloudstack:before {
+      content: "\f12a";
+    }
+  
+    .devicons-apiary:before {
+      content: "\f12b";
+    }
+  
+    .devicons-apollo:before {
+      content: "\f12c";
+    }
+  
+    .devicons-apostrophe:before {
+      content: "\f12d";
+    }
+  
+    .devicons-appbaseio-icon:before {
+      content: "\f12f";
+    }
+  
+    .devicons-appbaseio:before {
+      content: "\f12e";
+    }
+  
+    .devicons-appcenter-icon:before {
+      content: "\f131";
+    }
+  
+    .devicons-appcenter:before {
+      content: "\f130";
+    }
+  
+    .devicons-appcircle-icon:before {
+      content: "\f133";
+    }
+  
+    .devicons-appcircle:before {
+      content: "\f132";
+    }
+  
+    .devicons-appcode:before {
+      content: "\f134";
+    }
+  
+    .devicons-appdynamics-icon:before {
+      content: "\f136";
+    }
+  
+    .devicons-appdynamics:before {
+      content: "\f135";
+    }
+  
+    .devicons-appium:before {
+      content: "\f137";
+    }
+  
+    .devicons-apple-app-store:before {
+      content: "\f139";
+    }
+  
+    .devicons-apple-pay:before {
+      content: "\f13a";
+    }
+  
+    .devicons-apple:before {
+      content: "\f138";
+    }
+  
+    .devicons-applitools-icon:before {
+      content: "\f13c";
+    }
+  
+    .devicons-applitools:before {
+      content: "\f13b";
+    }
+  
+    .devicons-appsignal-icon:before {
+      content: "\f13e";
+    }
+  
+    .devicons-appsignal:before {
+      content: "\f13d";
+    }
+  
+    .devicons-apptentive:before {
+      content: "\f13f";
+    }
+  
+    .devicons-appveyor:before {
+      content: "\f140";
+    }
+  
+    .devicons-appwrite-icon:before {
+      content: "\f142";
+    }
+  
+    .devicons-appwrite:before {
+      content: "\f141";
+    }
+  
+    .devicons-arangodb-icon:before {
+      content: "\f144";
+    }
+  
+    .devicons-arangodb:before {
+      content: "\f143";
+    }
+  
+    .devicons-arc:before {
+      content: "\f145";
+    }
+  
+    .devicons-architect-icon:before {
+      content: "\f147";
+    }
+  
+    .devicons-architect:before {
+      content: "\f146";
+    }
+  
+    .devicons-archlinux:before {
+      content: "\f148";
+    }
+  
+    .devicons-arduino:before {
+      content: "\f149";
+    }
+  
+    .devicons-argo-icon:before {
+      content: "\f14b";
+    }
+  
+    .devicons-argo:before {
+      content: "\f14a";
+    }
+  
+    .devicons-arm:before {
+      content: "\f14c";
+    }
+  
+    .devicons-armory-icon:before {
+      content: "\f14e";
+    }
+  
+    .devicons-armory:before {
+      content: "\f14d";
+    }
+  
+    .devicons-asciidoctor:before {
+      content: "\f14f";
+    }
+  
+    .devicons-assembla-icon:before {
+      content: "\f151";
+    }
+  
+    .devicons-assembla:before {
+      content: "\f150";
+    }
+  
+    .devicons-astro-icon:before {
+      content: "\f153";
+    }
+  
+    .devicons-astro:before {
+      content: "\f152";
+    }
+  
+    .devicons-astronomer:before {
+      content: "\f154";
+    }
+  
+    .devicons-async-api-icon:before {
+      content: "\f156";
+    }
+  
+    .devicons-async-api:before {
+      content: "\f155";
+    }
+  
+    .devicons-atlassian:before {
+      content: "\f157";
+    }
+  
+    .devicons-atom-icon:before {
+      content: "\f159";
+    }
+  
+    .devicons-atom:before {
+      content: "\f158";
+    }
+  
+    .devicons-atomic-icon:before {
+      content: "\f15b";
+    }
+  
+    .devicons-atomic:before {
+      content: "\f15a";
+    }
+  
+    .devicons-atomicojs-icon:before {
+      content: "\f15d";
+    }
+  
+    .devicons-atomicojs:before {
+      content: "\f15c";
+    }
+  
+    .devicons-aurelia:before {
+      content: "\f15e";
+    }
+  
+    .devicons-aurora:before {
+      content: "\f15f";
+    }
+  
+    .devicons-auth0-icon:before {
+      content: "\f161";
+    }
+  
+    .devicons-auth0:before {
+      content: "\f160";
+    }
+  
+    .devicons-authy:before {
+      content: "\f162";
+    }
+  
+    .devicons-autoit:before {
+      content: "\f163";
+    }
+  
+    .devicons-autoprefixer:before {
+      content: "\f164";
+    }
+  
+    .devicons-ava:before {
+      content: "\f165";
+    }
+  
+    .devicons-awesome:before {
+      content: "\f166";
+    }
+  
+    .devicons-aws-amplify:before {
+      content: "\f168";
+    }
+  
+    .devicons-aws-api-gateway:before {
+      content: "\f169";
+    }
+  
+    .devicons-aws-app-mesh:before {
+      content: "\f16a";
+    }
+  
+    .devicons-aws-appflow:before {
+      content: "\f16b";
+    }
+  
+    .devicons-aws-appsync:before {
+      content: "\f16c";
+    }
+  
+    .devicons-aws-athena:before {
+      content: "\f16d";
+    }
+  
+    .devicons-aws-aurora:before {
+      content: "\f16e";
+    }
+  
+    .devicons-aws-backup:before {
+      content: "\f16f";
+    }
+  
+    .devicons-aws-batch:before {
+      content: "\f170";
+    }
+  
+    .devicons-aws-bedrock-icon:before {
+      content: "\f79c";
+    }
+  
+    .devicons-aws-bedrock:before {
+      content: "\f79d";
+    }
+  
+    .devicons-aws-certificate-manager:before {
+      content: "\f171";
+    }
+  
+    .devicons-aws-cloudformation:before {
+      content: "\f172";
+    }
+  
+    .devicons-aws-cloudfront:before {
+      content: "\f173";
+    }
+  
+    .devicons-aws-cloudsearch:before {
+      content: "\f174";
+    }
+  
+    .devicons-aws-cloudtrail:before {
+      content: "\f175";
+    }
+  
+    .devicons-aws-cloudwatch:before {
+      content: "\f176";
+    }
+  
+    .devicons-aws-codebuild:before {
+      content: "\f177";
+    }
+  
+    .devicons-aws-codecommit:before {
+      content: "\f178";
+    }
+  
+    .devicons-aws-codedeploy:before {
+      content: "\f179";
+    }
+  
+    .devicons-aws-codepipeline:before {
+      content: "\f17a";
+    }
+  
+    .devicons-aws-codestar:before {
+      content: "\f17b";
+    }
+  
+    .devicons-aws-cognito:before {
+      content: "\f17c";
+    }
+  
+    .devicons-aws-config:before {
+      content: "\f17d";
+    }
+  
+    .devicons-aws-documentdb:before {
+      content: "\f17e";
+    }
+  
+    .devicons-aws-dynamodb:before {
+      content: "\f17f";
+    }
+  
+    .devicons-aws-ec2:before {
+      content: "\f180";
+    }
+  
+    .devicons-aws-ecs:before {
+      content: "\f181";
+    }
+  
+    .devicons-aws-eks:before {
+      content: "\f182";
+    }
+  
+    .devicons-aws-elastic-beanstalk:before {
+      content: "\f183";
+    }
+  
+    .devicons-aws-elasticache:before {
+      content: "\f184";
+    }
+  
+    .devicons-aws-elb:before {
+      content: "\f185";
+    }
+  
+    .devicons-aws-eventbridge:before {
+      content: "\f186";
+    }
+  
+    .devicons-aws-fargate:before {
+      content: "\f187";
+    }
+  
+    .devicons-aws-glacier:before {
+      content: "\f188";
+    }
+  
+    .devicons-aws-glue:before {
+      content: "\f189";
+    }
+  
+    .devicons-aws-iam:before {
+      content: "\f18a";
+    }
+  
+    .devicons-aws-keyspaces:before {
+      content: "\f18b";
+    }
+  
+    .devicons-aws-kinesis:before {
+      content: "\f18c";
+    }
+  
+    .devicons-aws-kms:before {
+      content: "\f18d";
+    }
+  
+    .devicons-aws-lake-formation:before {
+      content: "\f18e";
+    }
+  
+    .devicons-aws-lambda:before {
+      content: "\f18f";
+    }
+  
+    .devicons-aws-lightsail:before {
+      content: "\f190";
+    }
+  
+    .devicons-aws-mq:before {
+      content: "\f191";
+    }
+  
+    .devicons-aws-msk:before {
+      content: "\f192";
+    }
+  
+    .devicons-aws-neptune:before {
+      content: "\f193";
+    }
+  
+    .devicons-aws-open-search:before {
+      content: "\f194";
+    }
+  
+    .devicons-aws-opsworks:before {
+      content: "\f195";
+    }
+  
+    .devicons-aws-quicksight:before {
+      content: "\f196";
+    }
+  
+    .devicons-aws-rds:before {
+      content: "\f197";
+    }
+  
+    .devicons-aws-redshift:before {
+      content: "\f198";
+    }
+  
+    .devicons-aws-route53:before {
+      content: "\f199";
+    }
+  
+    .devicons-aws-s3:before {
+      content: "\f19a";
+    }
+  
+    .devicons-aws-secrets-manager:before {
+      content: "\f19b";
+    }
+  
+    .devicons-aws-ses:before {
+      content: "\f19c";
+    }
+  
+    .devicons-aws-shield:before {
+      content: "\f19d";
+    }
+  
+    .devicons-aws-sns:before {
+      content: "\f19e";
+    }
+  
+    .devicons-aws-sqs:before {
+      content: "\f19f";
+    }
+  
+    .devicons-aws-step-functions:before {
+      content: "\f1a0";
+    }
+  
+    .devicons-aws-systems-manager:before {
+      content: "\f1a1";
+    }
+  
+    .devicons-aws-timestream:before {
+      content: "\f1a2";
+    }
+  
+    .devicons-aws-vpc:before {
+      content: "\f1a3";
+    }
+  
+    .devicons-aws-waf:before {
+      content: "\f1a4";
+    }
+  
+    .devicons-aws-xray:before {
+      content: "\f1a5";
+    }
+  
+    .devicons-aws:before {
+      content: "\f167";
+    }
+  
+    .devicons-axios:before {
+      content: "\f1a6";
+    }
+  
+    .devicons-backbone-icon:before {
+      content: "\f1a8";
+    }
+  
+    .devicons-backbone:before {
+      content: "\f1a7";
+    }
+  
+    .devicons-backerkit:before {
+      content: "\f1a9";
+    }
+  
+    .devicons-bamboo:before {
+      content: "\f1aa";
+    }
+  
+    .devicons-basecamp-icon:before {
+      content: "\f1ac";
+    }
+  
+    .devicons-basecamp:before {
+      content: "\f1ab";
+    }
+  
+    .devicons-basekit:before {
+      content: "\f1ad";
+    }
+  
+    .devicons-baseline:before {
+      content: "\f1ae";
+    }
+  
+    .devicons-bash-icon:before {
+      content: "\f1b0";
+    }
+  
+    .devicons-bash:before {
+      content: "\f1af";
+    }
+  
+    .devicons-batch:before {
+      content: "\f1b1";
+    }
+  
+    .devicons-beats:before {
+      content: "\f1b2";
+    }
+  
+    .devicons-behance:before {
+      content: "\f1b3";
+    }
+  
+    .devicons-bem:before {
+      content: "\f1b4";
+    }
+  
+    .devicons-bigpanda:before {
+      content: "\f1b5";
+    }
+  
+    .devicons-bing:before {
+      content: "\f1b6";
+    }
+  
+    .devicons-biomejs:before {
+      content: "\f1b7";
+    }
+  
+    .devicons-bitbar:before {
+      content: "\f1b8";
+    }
+  
+    .devicons-bitbucket:before {
+      content: "\f1b9";
+    }
+  
+    .devicons-bitcoin:before {
+      content: "\f1ba";
+    }
+  
+    .devicons-bitnami:before {
+      content: "\f1bb";
+    }
+  
+    .devicons-bitrise-icon:before {
+      content: "\f1bd";
+    }
+  
+    .devicons-bitrise:before {
+      content: "\f1bc";
+    }
+  
+    .devicons-blender:before {
+      content: "\f1be";
+    }
+  
+    .devicons-blitzjs-icon:before {
+      content: "\f1c0";
+    }
+  
+    .devicons-blitzjs:before {
+      content: "\f1bf";
+    }
+  
+    .devicons-blocs:before {
+      content: "\f1c1";
+    }
+  
+    .devicons-blogger:before {
+      content: "\f1c2";
+    }
+  
+    .devicons-blossom:before {
+      content: "\f1c3";
+    }
+  
+    .devicons-blueprint:before {
+      content: "\f1c4";
+    }
+  
+    .devicons-bluetooth:before {
+      content: "\f1c5";
+    }
+  
+    .devicons-booqable-icon:before {
+      content: "\f1c7";
+    }
+  
+    .devicons-booqable:before {
+      content: "\f1c6";
+    }
+  
+    .devicons-bootstrap:before {
+      content: "\f1c8";
+    }
+  
+    .devicons-botanalytics:before {
+      content: "\f1c9";
+    }
+  
+    .devicons-bower:before {
+      content: "\f1ca";
+    }
+  
+    .devicons-box:before {
+      content: "\f1cb";
+    }
+  
+    .devicons-brainjs:before {
+      content: "\f1cc";
+    }
+  
+    .devicons-branch-icon:before {
+      content: "\f1ce";
+    }
+  
+    .devicons-branch:before {
+      content: "\f1cd";
+    }
+  
+    .devicons-brandfolder-icon:before {
+      content: "\f1d0";
+    }
+  
+    .devicons-brandfolder:before {
+      content: "\f1cf";
+    }
+  
+    .devicons-brave:before {
+      content: "\f1d1";
+    }
+  
+    .devicons-braze-icon:before {
+      content: "\f1d3";
+    }
+  
+    .devicons-braze:before {
+      content: "\f1d2";
+    }
+  
+    .devicons-broadcom-icon:before {
+      content: "\f1d5";
+    }
+  
+    .devicons-broadcom:before {
+      content: "\f1d4";
+    }
+  
+    .devicons-broccoli:before {
+      content: "\f1d6";
+    }
+  
+    .devicons-brotli:before {
+      content: "\f1d7";
+    }
+  
+    .devicons-browserify-icon:before {
+      content: "\f1d9";
+    }
+  
+    .devicons-browserify:before {
+      content: "\f1d8";
+    }
+  
+    .devicons-browserling:before {
+      content: "\f1da";
+    }
+  
+    .devicons-browserslist:before {
+      content: "\f1db";
+    }
+  
+    .devicons-browsersync:before {
+      content: "\f1dc";
+    }
+  
+    .devicons-brunch:before {
+      content: "\f1dd";
+    }
+  
+    .devicons-bubble-icon:before {
+      content: "\f1df";
+    }
+  
+    .devicons-bubble:before {
+      content: "\f1de";
+    }
+  
+    .devicons-buck:before {
+      content: "\f1e0";
+    }
+  
+    .devicons-buddy:before {
+      content: "\f1e1";
+    }
+  
+    .devicons-buffer:before {
+      content: "\f1e2";
+    }
+  
+    .devicons-bugherd-icon:before {
+      content: "\f1e4";
+    }
+  
+    .devicons-bugherd:before {
+      content: "\f1e3";
+    }
+  
+    .devicons-bugsee:before {
+      content: "\f1e5";
+    }
+  
+    .devicons-bugsnag:before {
+      content: "\f1e6";
+    }
+  
+    .devicons-builder-io-icon:before {
+      content: "\f1e8";
+    }
+  
+    .devicons-builder-io:before {
+      content: "\f1e7";
+    }
+  
+    .devicons-buildkite-icon:before {
+      content: "\f1ea";
+    }
+  
+    .devicons-buildkite:before {
+      content: "\f1e9";
+    }
+  
+    .devicons-bulma:before {
+      content: "\f1eb";
+    }
+  
+    .devicons-bun:before {
+      content: "\f1ec";
+    }
+  
+    .devicons-bunny-net-icon:before {
+      content: "\f1ee";
+    }
+  
+    .devicons-bunny-net:before {
+      content: "\f1ed";
+    }
+  
+    .devicons-c-plusplus:before {
+      content: "\f1f0";
+    }
+  
+    .devicons-c-sharp:before {
+      content: "\f1f1";
+    }
+  
+    .devicons-c:before {
+      content: "\f1ef";
+    }
+  
+    .devicons-cachet:before {
+      content: "\f1f2";
+    }
+  
+    .devicons-cakephp-icon:before {
+      content: "\f1f4";
+    }
+  
+    .devicons-cakephp:before {
+      content: "\f1f3";
+    }
+  
+    .devicons-calibre-icon:before {
+      content: "\f1f6";
+    }
+  
+    .devicons-calibre:before {
+      content: "\f1f5";
+    }
+  
+    .devicons-campaignmonitor-icon:before {
+      content: "\f1f8";
+    }
+  
+    .devicons-campaignmonitor:before {
+      content: "\f1f7";
+    }
+  
+    .devicons-canjs:before {
+      content: "\f1f9";
+    }
+  
+    .devicons-capacitorjs-icon:before {
+      content: "\f1fb";
+    }
+  
+    .devicons-capacitorjs:before {
+      content: "\f1fa";
+    }
+  
+    .devicons-capistrano:before {
+      content: "\f1fc";
+    }
+  
+    .devicons-carbide:before {
+      content: "\f1fd";
+    }
+  
+    .devicons-cardano-icon:before {
+      content: "\f1ff";
+    }
+  
+    .devicons-cardano:before {
+      content: "\f1fe";
+    }
+  
+    .devicons-cassandra:before {
+      content: "\f200";
+    }
+  
+    .devicons-centos-icon:before {
+      content: "\f202";
+    }
+  
+    .devicons-centos:before {
+      content: "\f201";
+    }
+  
+    .devicons-certbot:before {
+      content: "\f203";
+    }
+  
+    .devicons-ceylon:before {
+      content: "\f204";
+    }
+  
+    .devicons-chai:before {
+      content: "\f205";
+    }
+  
+    .devicons-chalk:before {
+      content: "\f206";
+    }
+  
+    .devicons-chargebee-icon:before {
+      content: "\f208";
+    }
+  
+    .devicons-chargebee:before {
+      content: "\f207";
+    }
+  
+    .devicons-chart-js:before {
+      content: "\f209";
+    }
+  
+    .devicons-chef:before {
+      content: "\f20a";
+    }
+  
+    .devicons-chevereto:before {
+      content: "\f20b";
+    }
+  
+    .devicons-chroma:before {
+      content: "\f20c";
+    }
+  
+    .devicons-chromatic-icon:before {
+      content: "\f20e";
+    }
+  
+    .devicons-chromatic:before {
+      content: "\f20d";
+    }
+  
+    .devicons-chrome-web-store:before {
+      content: "\f210";
+    }
+  
+    .devicons-chrome:before {
+      content: "\f20f";
+    }
+  
+    .devicons-cinder:before {
+      content: "\f211";
+    }
+  
+    .devicons-circleci:before {
+      content: "\f212";
+    }
+  
+    .devicons-cirrus-ci:before {
+      content: "\f213";
+    }
+  
+    .devicons-claude-code:before {
+      content: "\f214";
+    }
+  
+    .devicons-claude-icon:before {
+      content: "\f797";
+    }
+  
+    .devicons-claude:before {
+      content: "\f798";
+    }
+  
+    .devicons-clerk:before {
+      content: "\f215";
+    }
+  
+    .devicons-clickhouse:before {
+      content: "\f216";
+    }
+  
+    .devicons-cline:before {
+      content: "\f217";
+    }
+  
+    .devicons-clio-lang:before {
+      content: "\f218";
+    }
+  
+    .devicons-clion:before {
+      content: "\f219";
+    }
+  
+    .devicons-cljs:before {
+      content: "\f21a";
+    }
+  
+    .devicons-clojure:before {
+      content: "\f21b";
+    }
+  
+    .devicons-close:before {
+      content: "\f21c";
+    }
+  
+    .devicons-cloud9:before {
+      content: "\f21d";
+    }
+  
+    .devicons-cloudacademy-icon:before {
+      content: "\f21f";
+    }
+  
+    .devicons-cloudacademy:before {
+      content: "\f21e";
+    }
+  
+    .devicons-cloudcraft:before {
+      content: "\f220";
+    }
+  
+    .devicons-cloudflare-icon:before {
+      content: "\f222";
+    }
+  
+    .devicons-cloudflare-workers-icon:before {
+      content: "\f224";
+    }
+  
+    .devicons-cloudflare-workers:before {
+      content: "\f223";
+    }
+  
+    .devicons-cloudflare:before {
+      content: "\f221";
+    }
+  
+    .devicons-cloudinary-icon:before {
+      content: "\f226";
+    }
+  
+    .devicons-cloudinary:before {
+      content: "\f225";
+    }
+  
+    .devicons-cloudlinux:before {
+      content: "\f227";
+    }
+  
+    .devicons-cobalt:before {
+      content: "\f228";
+    }
+  
+    .devicons-cockpit:before {
+      content: "\f229";
+    }
+  
+    .devicons-cocoapods:before {
+      content: "\f22a";
+    }
+  
+    .devicons-coda-icon:before {
+      content: "\f22c";
+    }
+  
+    .devicons-coda:before {
+      content: "\f22b";
+    }
+  
+    .devicons-codacy:before {
+      content: "\f22d";
+    }
+  
+    .devicons-codebase:before {
+      content: "\f22e";
+    }
+  
+    .devicons-codebeat:before {
+      content: "\f22f";
+    }
+  
+    .devicons-codecademy:before {
+      content: "\f230";
+    }
+  
+    .devicons-codeception:before {
+      content: "\f231";
+    }
+  
+    .devicons-codeclimate-icon:before {
+      content: "\f233";
+    }
+  
+    .devicons-codeclimate:before {
+      content: "\f232";
+    }
+  
+    .devicons-codecov-icon:before {
+      content: "\f235";
+    }
+  
+    .devicons-codecov:before {
+      content: "\f234";
+    }
+  
+    .devicons-codefactor-icon:before {
+      content: "\f237";
+    }
+  
+    .devicons-codefactor:before {
+      content: "\f236";
+    }
+  
+    .devicons-codeigniter-icon:before {
+      content: "\f239";
+    }
+  
+    .devicons-codeigniter:before {
+      content: "\f238";
+    }
+  
+    .devicons-codepen-icon:before {
+      content: "\f23b";
+    }
+  
+    .devicons-codepen:before {
+      content: "\f23a";
+    }
+  
+    .devicons-codersrank-icon:before {
+      content: "\f23d";
+    }
+  
+    .devicons-codersrank:before {
+      content: "\f23c";
+    }
+  
+    .devicons-coderwall:before {
+      content: "\f23e";
+    }
+  
+    .devicons-codesandbox-icon:before {
+      content: "\f240";
+    }
+  
+    .devicons-codesandbox:before {
+      content: "\f23f";
+    }
+  
+    .devicons-codesee-icon:before {
+      content: "\f242";
+    }
+  
+    .devicons-codesee:before {
+      content: "\f241";
+    }
+  
+    .devicons-codio:before {
+      content: "\f243";
+    }
+  
+    .devicons-coffeescript:before {
+      content: "\f244";
+    }
+  
+    .devicons-cohere-icon:before {
+      content: "\f79e";
+    }
+  
+    .devicons-cohere:before {
+      content: "\f79f";
+    }
+  
+    .devicons-commitizen:before {
+      content: "\f245";
+    }
+  
+    .devicons-compass:before {
+      content: "\f246";
+    }
+  
+    .devicons-componentkit:before {
+      content: "\f247";
+    }
+  
+    .devicons-compose-multiplatform:before {
+      content: "\f249";
+    }
+  
+    .devicons-compose:before {
+      content: "\f248";
+    }
+  
+    .devicons-composer:before {
+      content: "\f24a";
+    }
+  
+    .devicons-conan-io:before {
+      content: "\f24b";
+    }
+  
+    .devicons-concourse:before {
+      content: "\f24c";
+    }
+  
+    .devicons-concretecms-icon:before {
+      content: "\f24e";
+    }
+  
+    .devicons-concretecms:before {
+      content: "\f24d";
+    }
+  
+    .devicons-conda:before {
+      content: "\f24f";
+    }
+  
+    .devicons-confluence:before {
+      content: "\f250";
+    }
+  
+    .devicons-consul:before {
+      content: "\f251";
+    }
+  
+    .devicons-contentful:before {
+      content: "\f252";
+    }
+  
+    .devicons-convox-icon:before {
+      content: "\f254";
+    }
+  
+    .devicons-convox:before {
+      content: "\f253";
+    }
+  
+    .devicons-copyleft-pirate:before {
+      content: "\f256";
+    }
+  
+    .devicons-copyleft:before {
+      content: "\f255";
+    }
+  
+    .devicons-corda:before {
+      content: "\f257";
+    }
+  
+    .devicons-cordova:before {
+      content: "\f258";
+    }
+  
+    .devicons-couchbase:before {
+      content: "\f259";
+    }
+  
+    .devicons-couchdb-icon:before {
+      content: "\f25b";
+    }
+  
+    .devicons-couchdb:before {
+      content: "\f25a";
+    }
+  
+    .devicons-coursera:before {
+      content: "\f25c";
+    }
+  
+    .devicons-cpanel:before {
+      content: "\f25d";
+    }
+  
+    .devicons-craftcms:before {
+      content: "\f25e";
+    }
+  
+    .devicons-crashlytics:before {
+      content: "\f25f";
+    }
+  
+    .devicons-crateio:before {
+      content: "\f260";
+    }
+  
+    .devicons-create-react-app:before {
+      content: "\f261";
+    }
+  
+    .devicons-createjs:before {
+      content: "\f262";
+    }
+  
+    .devicons-crewai-icon:before {
+      content: "\f7a0";
+    }
+  
+    .devicons-crewai:before {
+      content: "\f7a1";
+    }
+  
+    .devicons-crucible:before {
+      content: "\f263";
+    }
+  
+    .devicons-crystal:before {
+      content: "\f264";
+    }
+  
+    .devicons-css-3-icon:before {
+      content: "\f267";
+    }
+  
+    .devicons-css-3:before {
+      content: "\f266";
+    }
+  
+    .devicons-css:before {
+      content: "\f265";
+    }
+  
+    .devicons-cssnext:before {
+      content: "\f268";
+    }
+  
+    .devicons-cube-icon:before {
+      content: "\f26a";
+    }
+  
+    .devicons-cube:before {
+      content: "\f269";
+    }
+  
+    .devicons-cucumber:before {
+      content: "\f26b";
+    }
+  
+    .devicons-curl:before {
+      content: "\f26c";
+    }
+  
+    .devicons-cursor-icon:before {
+      content: "\f799";
+    }
+  
+    .devicons-cursor:before {
+      content: "\f79a";
+    }
+  
+    .devicons-customerio-icon:before {
+      content: "\f26e";
+    }
+  
+    .devicons-customerio:before {
+      content: "\f26d";
+    }
+  
+    .devicons-cyclejs:before {
+      content: "\f26f";
+    }
+  
+    .devicons-cypress-icon:before {
+      content: "\f271";
+    }
+  
+    .devicons-cypress:before {
+      content: "\f270";
+    }
+  
+    .devicons-d3:before {
+      content: "\f272";
+    }
+  
+    .devicons-dailydev-icon:before {
+      content: "\f274";
+    }
+  
+    .devicons-dailydev:before {
+      content: "\f273";
+    }
+  
+    .devicons-daisy-ui:before {
+      content: "\f275";
+    }
+  
+    .devicons-danfo:before {
+      content: "\f277";
+    }
+  
+    .devicons-dart:before {
+      content: "\f278";
+    }
+  
+    .devicons-dashlane-icon:before {
+      content: "\f27a";
+    }
+  
+    .devicons-dashlane:before {
+      content: "\f279";
+    }
+  
+    .devicons-data-station:before {
+      content: "\f27b";
+    }
+  
+    .devicons-database-labs:before {
+      content: "\f27c";
+    }
+  
+    .devicons-datadog-icon:before {
+      content: "\f27e";
+    }
+  
+    .devicons-datadog:before {
+      content: "\f27d";
+    }
+  
+    .devicons-datagrip:before {
+      content: "\f27f";
+    }
+  
+    .devicons-datasette-icon:before {
+      content: "\f281";
+    }
+  
+    .devicons-datasette:before {
+      content: "\f280";
+    }
+  
+    .devicons-dataspell:before {
+      content: "\f282";
+    }
+  
+    .devicons-datocms-icon:before {
+      content: "\f284";
+    }
+  
+    .devicons-datocms:before {
+      content: "\f283";
+    }
+  
+    .devicons-dbt-icon:before {
+      content: "\f286";
+    }
+  
+    .devicons-dbt:before {
+      content: "\f285";
+    }
+  
+    .devicons-dcos-icon:before {
+      content: "\f288";
+    }
+  
+    .devicons-dcos:before {
+      content: "\f287";
+    }
+  
+    .devicons-debian:before {
+      content: "\f289";
+    }
+  
+    .devicons-deepseek:before {
+      content: "\f28a";
+    }
+  
+    .devicons-delighted-icon:before {
+      content: "\f28c";
+    }
+  
+    .devicons-delighted:before {
+      content: "\f28b";
+    }
+  
+    .devicons-deno:before {
+      content: "\f28d";
+    }
+  
+    .devicons-dependabot:before {
+      content: "\f28e";
+    }
+  
+    .devicons-derby:before {
+      content: "\f28f";
+    }
+  
+    .devicons-descript-icon:before {
+      content: "\f291";
+    }
+  
+    .devicons-descript:before {
+      content: "\f290";
+    }
+  
+    .devicons-designernews:before {
+      content: "\f292";
+    }
+  
+    .devicons-deviantart-icon:before {
+      content: "\f294";
+    }
+  
+    .devicons-deviantart:before {
+      content: "\f293";
+    }
+  
+    .devicons-devicescript:before {
+      content: "\f295";
+    }
+  
+    .devicons-dgraph-icon:before {
+      content: "\f297";
+    }
+  
+    .devicons-dgraph:before {
+      content: "\f296";
+    }
+  
+    .devicons-dialogflow:before {
+      content: "\f298";
+    }
+  
+    .devicons-dify-icon:before {
+      content: "\f7a2";
+    }
+  
+    .devicons-dify:before {
+      content: "\f7a3";
+    }
+  
+    .devicons-digital-ocean-icon:before {
+      content: "\f29a";
+    }
+  
+    .devicons-digital-ocean:before {
+      content: "\f299";
+    }
+  
+    .devicons-dimer:before {
+      content: "\f29b";
+    }
+  
+    .devicons-dinersclub:before {
+      content: "\f29c";
+    }
+  
+    .devicons-discord-icon:before {
+      content: "\f29e";
+    }
+  
+    .devicons-discord:before {
+      content: "\f29d";
+    }
+  
+    .devicons-discourse-icon:before {
+      content: "\f2a0";
+    }
+  
+    .devicons-discourse:before {
+      content: "\f29f";
+    }
+  
+    .devicons-discover:before {
+      content: "\f2a1";
+    }
+  
+    .devicons-disqus:before {
+      content: "\f2a2";
+    }
+  
+    .devicons-django-icon:before {
+      content: "\f2a4";
+    }
+  
+    .devicons-django:before {
+      content: "\f2a3";
+    }
+  
+    .devicons-dockbit:before {
+      content: "\f2a5";
+    }
+  
+    .devicons-docker-icon:before {
+      content: "\f2a7";
+    }
+  
+    .devicons-docker:before {
+      content: "\f2a6";
+    }
+  
+    .devicons-doctrine:before {
+      content: "\f2a8";
+    }
+  
+    .devicons-docusaurus:before {
+      content: "\f2a9";
+    }
+  
+    .devicons-dojo-icon:before {
+      content: "\f2ab";
+    }
+  
+    .devicons-dojo-toolkit:before {
+      content: "\f2ac";
+    }
+  
+    .devicons-dojo:before {
+      content: "\f2aa";
+    }
+  
+    .devicons-dolt:before {
+      content: "\f2ad";
+    }
+  
+    .devicons-dotnet:before {
+      content: "\f2ae";
+    }
+  
+    .devicons-dovetail-icon:before {
+      content: "\f2b0";
+    }
+  
+    .devicons-dovetail:before {
+      content: "\f2af";
+    }
+  
+    .devicons-dreamhost:before {
+      content: "\f2b1";
+    }
+  
+    .devicons-dribbble-icon:before {
+      content: "\f2b3";
+    }
+  
+    .devicons-dribbble:before {
+      content: "\f2b2";
+    }
+  
+    .devicons-drift:before {
+      content: "\f2b4";
+    }
+  
+    .devicons-drip:before {
+      content: "\f2b5";
+    }
+  
+    .devicons-drizzle-orm:before {
+      content: "\f2b6";
+    }
+  
+    .devicons-drone-icon:before {
+      content: "\f2b8";
+    }
+  
+    .devicons-drone:before {
+      content: "\f2b7";
+    }
+  
+    .devicons-drools-icon:before {
+      content: "\f2ba";
+    }
+  
+    .devicons-drools:before {
+      content: "\f2b9";
+    }
+  
+    .devicons-dropbox:before {
+      content: "\f2bb";
+    }
+  
+    .devicons-dropmark:before {
+      content: "\f2bc";
+    }
+  
+    .devicons-dropzone:before {
+      content: "\f2bd";
+    }
+  
+    .devicons-drupal-icon:before {
+      content: "\f2bf";
+    }
+  
+    .devicons-drupal:before {
+      content: "\f2be";
+    }
+  
+    .devicons-duckduckgo:before {
+      content: "\f2c0";
+    }
+  
+    .devicons-dynatrace-icon:before {
+      content: "\f2c2";
+    }
+  
+    .devicons-dynatrace:before {
+      content: "\f2c1";
+    }
+  
+    .devicons-dyndns:before {
+      content: "\f2c3";
+    }
+  
+    .devicons-eclipse-icon:before {
+      content: "\f2c5";
+    }
+  
+    .devicons-eclipse:before {
+      content: "\f2c4";
+    }
+  
+    .devicons-ecma:before {
+      content: "\f2c6";
+    }
+  
+    .devicons-edgedb:before {
+      content: "\f2c7";
+    }
+  
+    .devicons-edgio-icon:before {
+      content: "\f2c9";
+    }
+  
+    .devicons-edgio:before {
+      content: "\f2c8";
+    }
+  
+    .devicons-editorconfig:before {
+      content: "\f2ca";
+    }
+  
+    .devicons-effect-icon:before {
+      content: "\f2cc";
+    }
+  
+    .devicons-effect:before {
+      content: "\f2cb";
+    }
+  
+    .devicons-egghead:before {
+      content: "\f2cd";
+    }
+  
+    .devicons-elasticpath-icon:before {
+      content: "\f2cf";
+    }
+  
+    .devicons-elasticpath:before {
+      content: "\f2ce";
+    }
+  
+    .devicons-elasticsearch:before {
+      content: "\f2d0";
+    }
+  
+    .devicons-electron:before {
+      content: "\f2d1";
+    }
+  
+    .devicons-element:before {
+      content: "\f2d2";
+    }
+  
+    .devicons-elemental-ui:before {
+      content: "\f2d3";
+    }
+  
+    .devicons-elementary:before {
+      content: "\f2d4";
+    }
+  
+    .devicons-elevenlabs-icon:before {
+      content: "\f7a4";
+    }
+  
+    .devicons-elevenlabs:before {
+      content: "\f7a5";
+    }
+  
+    .devicons-eleventy:before {
+      content: "\f2d5";
+    }
+  
+    .devicons-elixir-icon:before {
+      content: "\f2d7";
+    }
+  
+    .devicons-elixir:before {
+      content: "\f2d6";
+    }
+  
+    .devicons-ello:before {
+      content: "\f2d8";
+    }
+  
+    .devicons-elm:before {
+      content: "\f2d9";
+    }
+  
+    .devicons-elo:before {
+      content: "\f2da";
+    }
+  
+    .devicons-emacs-classic:before {
+      content: "\f2dc";
+    }
+  
+    .devicons-emacs:before {
+      content: "\f2db";
+    }
+  
+    .devicons-embedly:before {
+      content: "\f2dd";
+    }
+  
+    .devicons-ember-icon:before {
+      content: "\f2df";
+    }
+  
+    .devicons-ember:before {
+      content: "\f2de";
+    }
+  
+    .devicons-emmet:before {
+      content: "\f2e0";
+    }
+  
+    .devicons-enact:before {
+      content: "\f2e1";
+    }
+  
+    .devicons-env:before {
+      content: "\f2e2";
+    }
+  
+    .devicons-envato:before {
+      content: "\f2e3";
+    }
+  
+    .devicons-envoy-icon:before {
+      content: "\f2e5";
+    }
+  
+    .devicons-envoy:before {
+      content: "\f2e4";
+    }
+  
+    .devicons-envoyer:before {
+      content: "\f2e6";
+    }
+  
+    .devicons-epsagon-icon:before {
+      content: "\f2e8";
+    }
+  
+    .devicons-epsagon:before {
+      content: "\f2e7";
+    }
+  
+    .devicons-eraser-icon:before {
+      content: "\f2ea";
+    }
+  
+    .devicons-eraser:before {
+      content: "\f2e9";
+    }
+  
+    .devicons-erlang-icon:before {
+      content: "\f2ec";
+    }
+  
+    .devicons-erlang:before {
+      content: "\f2eb";
+    }
+  
+    .devicons-esbuild:before {
+      content: "\f2ed";
+    }
+  
+    .devicons-esdoc:before {
+      content: "\f2ee";
+    }
+  
+    .devicons-eslint:before {
+      content: "\f2ef";
+    }
+  
+    .devicons-eta-icon:before {
+      content: "\f2f1";
+    }
+  
+    .devicons-eta:before {
+      content: "\f2f0";
+    }
+  
+    .devicons-etcd:before {
+      content: "\f2f2";
+    }
+  
+    .devicons-ethereum-color:before {
+      content: "\f2f4";
+    }
+  
+    .devicons-ethereum:before {
+      content: "\f2f3";
+    }
+  
+    .devicons-ethers:before {
+      content: "\f2f5";
+    }
+  
+    .devicons-ethnio:before {
+      content: "\f2f6";
+    }
+  
+    .devicons-eventbrite-icon:before {
+      content: "\f2f8";
+    }
+  
+    .devicons-eventbrite:before {
+      content: "\f2f7";
+    }
+  
+    .devicons-eventsentry:before {
+      content: "\f2f9";
+    }
+  
+    .devicons-evergreen-icon:before {
+      content: "\f2fb";
+    }
+  
+    .devicons-evergreen:before {
+      content: "\f2fa";
+    }
+  
+    .devicons-expo-icon:before {
+      content: "\f2fd";
+    }
+  
+    .devicons-expo:before {
+      content: "\f2fc";
+    }
+  
+    .devicons-express:before {
+      content: "\f2fe";
+    }
+  
+    .devicons-fabric:before {
+      content: "\f2ff";
+    }
+  
+    .devicons-fastapi-icon:before {
+      content: "\f301";
+    }
+  
+    .devicons-fastapi:before {
+      content: "\f300";
+    }
+  
+    .devicons-fastify-icon:before {
+      content: "\f303";
+    }
+  
+    .devicons-fastify:before {
+      content: "\f302";
+    }
+  
+    .devicons-fastlane:before {
+      content: "\f304";
+    }
+  
+    .devicons-fastly:before {
+      content: "\f305";
+    }
+  
+    .devicons-fauna-icon:before {
+      content: "\f307";
+    }
+  
+    .devicons-fauna:before {
+      content: "\f306";
+    }
+  
+    .devicons-feathersjs:before {
+      content: "\f308";
+    }
+  
+    .devicons-fedora:before {
+      content: "\f309";
+    }
+  
+    .devicons-fetch:before {
+      content: "\f30a";
+    }
+  
+    .devicons-ffmpeg-icon:before {
+      content: "\f30c";
+    }
+  
+    .devicons-ffmpeg:before {
+      content: "\f30b";
+    }
+  
+    .devicons-figma:before {
+      content: "\f30d";
+    }
+  
+    .devicons-firebase-icon:before {
+      content: "\f30f";
+    }
+  
+    .devicons-firebase:before {
+      content: "\f30e";
+    }
+  
+    .devicons-firefox-browser:before {
+      content: "\f311";
+    }
+  
+    .devicons-firefox:before {
+      content: "\f310";
+    }
+  
+    .devicons-fireworks:before {
+      content: "\f312";
+    }
+  
+    .devicons-flannel:before {
+      content: "\f313";
+    }
+  
+    .devicons-flarum:before {
+      content: "\f314";
+    }
+  
+    .devicons-flask:before {
+      content: "\f315";
+    }
+  
+    .devicons-flattr-icon:before {
+      content: "\f317";
+    }
+  
+    .devicons-flattr:before {
+      content: "\f316";
+    }
+  
+    .devicons-fleep:before {
+      content: "\f318";
+    }
+  
+    .devicons-flickr-icon:before {
+      content: "\f31a";
+    }
+  
+    .devicons-flickr:before {
+      content: "\f319";
+    }
+  
+    .devicons-flight:before {
+      content: "\f31b";
+    }
+  
+    .devicons-floodio:before {
+      content: "\f31c";
+    }
+  
+    .devicons-flow:before {
+      content: "\f31d";
+    }
+  
+    .devicons-flowxo:before {
+      content: "\f31e";
+    }
+  
+    .devicons-floydhub:before {
+      content: "\f31f";
+    }
+  
+    .devicons-flutter:before {
+      content: "\f320";
+    }
+  
+    .devicons-flux:before {
+      content: "\f321";
+    }
+  
+    .devicons-fluxxor:before {
+      content: "\f322";
+    }
+  
+    .devicons-fly-icon:before {
+      content: "\f324";
+    }
+  
+    .devicons-fly:before {
+      content: "\f323";
+    }
+  
+    .devicons-fogbugz-icon:before {
+      content: "\f326";
+    }
+  
+    .devicons-fogbugz:before {
+      content: "\f325";
+    }
+  
+    .devicons-fomo-icon:before {
+      content: "\f328";
+    }
+  
+    .devicons-fomo:before {
+      content: "\f327";
+    }
+  
+    .devicons-font-awesome:before {
+      content: "\f329";
+    }
+  
+    .devicons-forestadmin-icon:before {
+      content: "\f32b";
+    }
+  
+    .devicons-forestadmin:before {
+      content: "\f32a";
+    }
+  
+    .devicons-forever:before {
+      content: "\f32c";
+    }
+  
+    .devicons-formkeep:before {
+      content: "\f32d";
+    }
+  
+    .devicons-fortran:before {
+      content: "\f32e";
+    }
+  
+    .devicons-foundationdb-icon:before {
+      content: "\f330";
+    }
+  
+    .devicons-foundationdb:before {
+      content: "\f32f";
+    }
+  
+    .devicons-framer:before {
+      content: "\f331";
+    }
+  
+    .devicons-framework7-icon:before {
+      content: "\f333";
+    }
+  
+    .devicons-framework7:before {
+      content: "\f332";
+    }
+  
+    .devicons-freebsd:before {
+      content: "\f334";
+    }
+  
+    .devicons-freedcamp-icon:before {
+      content: "\f336";
+    }
+  
+    .devicons-freedcamp:before {
+      content: "\f335";
+    }
+  
+    .devicons-fresh:before {
+      content: "\f337";
+    }
+  
+    .devicons-frontapp:before {
+      content: "\f338";
+    }
+  
+    .devicons-fsharp:before {
+      content: "\f339";
+    }
+  
+    .devicons-fuchsia:before {
+      content: "\f33a";
+    }
+  
+    .devicons-galliumos:before {
+      content: "\f33b";
+    }
+  
+    .devicons-game-analytics-icon:before {
+      content: "\f33d";
+    }
+  
+    .devicons-game-analytics:before {
+      content: "\f33c";
+    }
+  
+    .devicons-gatsby:before {
+      content: "\f33e";
+    }
+  
+    .devicons-geetest-icon:before {
+      content: "\f340";
+    }
+  
+    .devicons-geetest:before {
+      content: "\f33f";
+    }
+  
+    .devicons-getyourguide:before {
+      content: "\f341";
+    }
+  
+    .devicons-ghost:before {
+      content: "\f342";
+    }
+  
+    .devicons-giantswarm:before {
+      content: "\f343";
+    }
+  
+    .devicons-gin:before {
+      content: "\f344";
+    }
+  
+    .devicons-git-icon:before {
+      content: "\f346";
+    }
+  
+    .devicons-git:before {
+      content: "\f345";
+    }
+  
+    .devicons-gitboard:before {
+      content: "\f347";
+    }
+  
+    .devicons-github-actions:before {
+      content: "\f349";
+    }
+  
+    .devicons-github-copilot:before {
+      content: "\f34a";
+    }
+  
+    .devicons-github-icon:before {
+      content: "\f34b";
+    }
+  
+    .devicons-github:before {
+      content: "\f348";
+    }
+  
+    .devicons-gitkraken:before {
+      content: "\f34c";
+    }
+  
+    .devicons-gitlab:before {
+      content: "\f34d";
+    }
+  
+    .devicons-gitter:before {
+      content: "\f34e";
+    }
+  
+    .devicons-glimmerjs:before {
+      content: "\f34f";
+    }
+  
+    .devicons-glint:before {
+      content: "\f350";
+    }
+  
+    .devicons-glitch-icon:before {
+      content: "\f352";
+    }
+  
+    .devicons-glitch:before {
+      content: "\f351";
+    }
+  
+    .devicons-gnome-icon:before {
+      content: "\f354";
+    }
+  
+    .devicons-gnome:before {
+      content: "\f353";
+    }
+  
+    .devicons-gnu-net:before {
+      content: "\f356";
+    }
+  
+    .devicons-gnu:before {
+      content: "\f355";
+    }
+  
+    .devicons-gnupg-icon:before {
+      content: "\f358";
+    }
+  
+    .devicons-gnupg:before {
+      content: "\f357";
+    }
+  
+    .devicons-go:before {
+      content: "\f359";
+    }
+  
+    .devicons-gocd:before {
+      content: "\f35a";
+    }
+  
+    .devicons-godot-icon:before {
+      content: "\f35c";
+    }
+  
+    .devicons-godot:before {
+      content: "\f35b";
+    }
+  
+    .devicons-gohorse:before {
+      content: "\f35d";
+    }
+  
+    .devicons-goland:before {
+      content: "\f35e";
+    }
+  
+    .devicons-google-admob:before {
+      content: "\f360";
+    }
+  
+    .devicons-google-ads:before {
+      content: "\f361";
+    }
+  
+    .devicons-google-adsense:before {
+      content: "\f362";
+    }
+  
+    .devicons-google-analytics:before {
+      content: "\f363";
+    }
+  
+    .devicons-google-bard-icon:before {
+      content: "\f365";
+    }
+  
+    .devicons-google-bard:before {
+      content: "\f364";
+    }
+  
+    .devicons-google-calendar:before {
+      content: "\f366";
+    }
+  
+    .devicons-google-cloud-functions:before {
+      content: "\f368";
+    }
+  
+    .devicons-google-cloud-run:before {
+      content: "\f369";
+    }
+  
+    .devicons-google-cloud:before {
+      content: "\f367";
+    }
+  
+    .devicons-google-data-studio:before {
+      content: "\f36a";
+    }
+  
+    .devicons-google-developers:before {
+      content: "\f36b";
+    }
+  
+    .devicons-google-domains-icon:before {
+      content: "\f36d";
+    }
+  
+    .devicons-google-domains:before {
+      content: "\f36c";
+    }
+  
+    .devicons-google-drive:before {
+      content: "\f36e";
+    }
+  
+    .devicons-google-fit:before {
+      content: "\f36f";
+    }
+  
+    .devicons-google-gemini-icon:before {
+      content: "\f7a6";
+    }
+  
+    .devicons-google-gemini:before {
+      content: "\f370";
+    }
+  
+    .devicons-google-gmail:before {
+      content: "\f371";
+    }
+  
+    .devicons-google-home:before {
+      content: "\f372";
+    }
+  
+    .devicons-google-icon:before {
+      content: "\f373";
+    }
+  
+    .devicons-google-palm:before {
+      content: "\f374";
+    }
+  
+    .devicons-google-pay:before {
+      content: "\f375";
+    }
+  
+    .devicons-google-photos:before {
+      content: "\f376";
+    }
+  
+    .devicons-google-play-console-icon:before {
+      content: "\f379";
+    }
+  
+    .devicons-google-play-console:before {
+      content: "\f378";
+    }
+  
+    .devicons-google-play:before {
+      content: "\f377";
+    }
+  
+    .devicons-google-workspace:before {
+      content: "\f37a";
+    }
+  
+    .devicons-google:before {
+      content: "\f35f";
+    }
+  
+    .devicons-gopher:before {
+      content: "\f37b";
+    }
+  
+    .devicons-gradio-icon:before {
+      content: "\f37d";
+    }
+  
+    .devicons-gradio:before {
+      content: "\f37c";
+    }
+  
+    .devicons-gradle:before {
+      content: "\f37e";
+    }
+  
+    .devicons-grafana:before {
+      content: "\f37f";
+    }
+  
+    .devicons-grails:before {
+      content: "\f380";
+    }
+  
+    .devicons-grammarly-icon:before {
+      content: "\f382";
+    }
+  
+    .devicons-grammarly:before {
+      content: "\f381";
+    }
+  
+    .devicons-graphene:before {
+      content: "\f383";
+    }
+  
+    .devicons-graphql:before {
+      content: "\f384";
+    }
+  
+    .devicons-grav:before {
+      content: "\f385";
+    }
+  
+    .devicons-gravatar-icon:before {
+      content: "\f387";
+    }
+  
+    .devicons-gravatar:before {
+      content: "\f386";
+    }
+  
+    .devicons-graylog-icon:before {
+      content: "\f389";
+    }
+  
+    .devicons-graylog:before {
+      content: "\f388";
+    }
+  
+    .devicons-greensock-icon:before {
+      content: "\f38b";
+    }
+  
+    .devicons-greensock:before {
+      content: "\f38a";
+    }
+  
+    .devicons-gridsome-icon:before {
+      content: "\f38d";
+    }
+  
+    .devicons-gridsome:before {
+      content: "\f38c";
+    }
+  
+    .devicons-grok-icon:before {
+      content: "\f7a7";
+    }
+  
+    .devicons-grok:before {
+      content: "\f7a8";
+    }
+  
+    .devicons-grommet:before {
+      content: "\f38e";
+    }
+  
+    .devicons-groovehq:before {
+      content: "\f38f";
+    }
+  
+    .devicons-groq:before {
+      content: "\f390";
+    }
+  
+    .devicons-grove:before {
+      content: "\f391";
+    }
+  
+    .devicons-growth-book-icon:before {
+      content: "\f393";
+    }
+  
+    .devicons-growth-book:before {
+      content: "\f392";
+    }
+  
+    .devicons-grpc:before {
+      content: "\f394";
+    }
+  
+    .devicons-grunt:before {
+      content: "\f395";
+    }
+  
+    .devicons-gulp:before {
+      content: "\f396";
+    }
+  
+    .devicons-gunicorn:before {
+      content: "\f397";
+    }
+  
+    .devicons-gunjs:before {
+      content: "\f398";
+    }
+  
+    .devicons-gusto:before {
+      content: "\f399";
+    }
+  
+    .devicons-gwt:before {
+      content: "\f39a";
+    }
+  
+    .devicons-hack:before {
+      content: "\f39b";
+    }
+  
+    .devicons-hacker-one:before {
+      content: "\f39c";
+    }
+  
+    .devicons-hadoop:before {
+      content: "\f39d";
+    }
+  
+    .devicons-haiku-icon:before {
+      content: "\f39f";
+    }
+  
+    .devicons-haiku:before {
+      content: "\f39e";
+    }
+  
+    .devicons-haml:before {
+      content: "\f3a0";
+    }
+  
+    .devicons-handlebars:before {
+      content: "\f3a1";
+    }
+  
+    .devicons-hapi:before {
+      content: "\f3a2";
+    }
+  
+    .devicons-hardhat-icon:before {
+      content: "\f3a4";
+    }
+  
+    .devicons-hardhat:before {
+      content: "\f3a3";
+    }
+  
+    .devicons-harness-icon:before {
+      content: "\f3a6";
+    }
+  
+    .devicons-harness:before {
+      content: "\f3a5";
+    }
+  
+    .devicons-hashicorp-icon:before {
+      content: "\f3a8";
+    }
+  
+    .devicons-hashicorp:before {
+      content: "\f3a7";
+    }
+  
+    .devicons-hashnode-icon:before {
+      content: "\f3aa";
+    }
+  
+    .devicons-hashnode:before {
+      content: "\f3a9";
+    }
+  
+    .devicons-haskell-icon:before {
+      content: "\f3ac";
+    }
+  
+    .devicons-haskell:before {
+      content: "\f3ab";
+    }
+  
+    .devicons-hasura-icon:before {
+      content: "\f3ae";
+    }
+  
+    .devicons-hasura:before {
+      content: "\f3ad";
+    }
+  
+    .devicons-haxl:before {
+      content: "\f3af";
+    }
+  
+    .devicons-hbase:before {
+      content: "\f3b0";
+    }
+  
+    .devicons-hcaptcha-icon:before {
+      content: "\f3b2";
+    }
+  
+    .devicons-hcaptcha:before {
+      content: "\f3b1";
+    }
+  
+    .devicons-headlessui-icon:before {
+      content: "\f3b4";
+    }
+  
+    .devicons-headlessui:before {
+      content: "\f3b3";
+    }
+  
+    .devicons-heap-icon:before {
+      content: "\f3b6";
+    }
+  
+    .devicons-heap:before {
+      content: "\f3b5";
+    }
+  
+    .devicons-helm:before {
+      content: "\f3b7";
+    }
+  
+    .devicons-helpscout-icon:before {
+      content: "\f3b9";
+    }
+  
+    .devicons-helpscout:before {
+      content: "\f3b8";
+    }
+  
+    .devicons-hermes:before {
+      content: "\f3ba";
+    }
+  
+    .devicons-heroku-icon:before {
+      content: "\f3bc";
+    }
+  
+    .devicons-heroku-redis:before {
+      content: "\f3bd";
+    }
+  
+    .devicons-heroku:before {
+      content: "\f3bb";
+    }
+  
+    .devicons-hexo:before {
+      content: "\f3be";
+    }
+  
+    .devicons-hhvm:before {
+      content: "\f3bf";
+    }
+  
+    .devicons-hibernate:before {
+      content: "\f3c0";
+    }
+  
+    .devicons-highcharts:before {
+      content: "\f3c1";
+    }
+  
+    .devicons-hipercard:before {
+      content: "\f3c2";
+    }
+  
+    .devicons-homebrew:before {
+      content: "\f3c3";
+    }
+  
+    .devicons-hono:before {
+      content: "\f3c4";
+    }
+  
+    .devicons-hookstate:before {
+      content: "\f3c5";
+    }
+  
+    .devicons-hootsuite-icon:before {
+      content: "\f3c7";
+    }
+  
+    .devicons-hootsuite:before {
+      content: "\f3c6";
+    }
+  
+    .devicons-hosted-graphite:before {
+      content: "\f3c8";
+    }
+  
+    .devicons-hotjar-icon:before {
+      content: "\f3ca";
+    }
+  
+    .devicons-hotjar:before {
+      content: "\f3c9";
+    }
+  
+    .devicons-houndci:before {
+      content: "\f3cb";
+    }
+  
+    .devicons-html-5:before {
+      content: "\f3cc";
+    }
+  
+    .devicons-html5-boilerplate:before {
+      content: "\f3cd";
+    }
+  
+    .devicons-httpie-icon:before {
+      content: "\f3cf";
+    }
+  
+    .devicons-httpie:before {
+      content: "\f3ce";
+    }
+  
+    .devicons-hubspot:before {
+      content: "\f3d0";
+    }
+  
+    .devicons-hugging-face-icon:before {
+      content: "\f3d2";
+    }
+  
+    .devicons-hugging-face:before {
+      content: "\f3d1";
+    }
+  
+    .devicons-huggy:before {
+      content: "\f3d3";
+    }
+  
+    .devicons-hugo:before {
+      content: "\f3d4";
+    }
+  
+    .devicons-humongous:before {
+      content: "\f3d5";
+    }
+  
+    .devicons-hyper:before {
+      content: "\f3d6";
+    }
+  
+    .devicons-hyperapp:before {
+      content: "\f3d7";
+    }
+  
+    .devicons-ibm:before {
+      content: "\f3d8";
+    }
+  
+    .devicons-ieee:before {
+      content: "\f3d9";
+    }
+  
+    .devicons-ifttt:before {
+      content: "\f3da";
+    }
+  
+    .devicons-imba-icon:before {
+      content: "\f3dc";
+    }
+  
+    .devicons-imba:before {
+      content: "\f3db";
+    }
+  
+    .devicons-immer-icon:before {
+      content: "\f3de";
+    }
+  
+    .devicons-immer:before {
+      content: "\f3dd";
+    }
+  
+    .devicons-immutable:before {
+      content: "\f3df";
+    }
+  
+    .devicons-impala:before {
+      content: "\f3e0";
+    }
+  
+    .devicons-importio:before {
+      content: "\f3e1";
+    }
+  
+    .devicons-incident-icon:before {
+      content: "\f3e3";
+    }
+  
+    .devicons-incident:before {
+      content: "\f3e2";
+    }
+  
+    .devicons-infer:before {
+      content: "\f3e4";
+    }
+  
+    .devicons-inferno:before {
+      content: "\f3e5";
+    }
+  
+    .devicons-influxdb-icon:before {
+      content: "\f3e7";
+    }
+  
+    .devicons-influxdb:before {
+      content: "\f3e6";
+    }
+  
+    .devicons-insomnia:before {
+      content: "\f3e8";
+    }
+  
+    .devicons-intel:before {
+      content: "\f3e9";
+    }
+  
+    .devicons-intellij-idea:before {
+      content: "\f3ea";
+    }
+  
+    .devicons-intercom-icon:before {
+      content: "\f3ec";
+    }
+  
+    .devicons-intercom:before {
+      content: "\f3eb";
+    }
+  
+    .devicons-internetexplorer:before {
+      content: "\f3ed";
+    }
+  
+    .devicons-ionic-icon:before {
+      content: "\f3ef";
+    }
+  
+    .devicons-ionic:before {
+      content: "\f3ee";
+    }
+  
+    .devicons-ios:before {
+      content: "\f3f0";
+    }
+  
+    .devicons-iron-icon:before {
+      content: "\f3f2";
+    }
+  
+    .devicons-iron:before {
+      content: "\f3f1";
+    }
+  
+    .devicons-itsalive-icon:before {
+      content: "\f3f4";
+    }
+  
+    .devicons-itsalive:before {
+      content: "\f3f3";
+    }
+  
+    .devicons-jade:before {
+      content: "\f3f5";
+    }
+  
+    .devicons-jamstack-icon:before {
+      content: "\f3f7";
+    }
+  
+    .devicons-jamstack:before {
+      content: "\f3f6";
+    }
+  
+    .devicons-jasmine:before {
+      content: "\f3f8";
+    }
+  
+    .devicons-java:before {
+      content: "\f3f9";
+    }
+  
+    .devicons-javascript:before {
+      content: "\f3fa";
+    }
+  
+    .devicons-jcb:before {
+      content: "\f3fb";
+    }
+  
+    .devicons-jekyll:before {
+      content: "\f3fc";
+    }
+  
+    .devicons-jenkins:before {
+      content: "\f3fd";
+    }
+  
+    .devicons-jest:before {
+      content: "\f3fe";
+    }
+  
+    .devicons-jetbrains-icon:before {
+      content: "\f400";
+    }
+  
+    .devicons-jetbrains:before {
+      content: "\f3ff";
+    }
+  
+    .devicons-jfrog:before {
+      content: "\f401";
+    }
+  
+    .devicons-jhipster-icon:before {
+      content: "\f403";
+    }
+  
+    .devicons-jhipster:before {
+      content: "\f402";
+    }
+  
+    .devicons-jira:before {
+      content: "\f404";
+    }
+  
+    .devicons-joomla:before {
+      content: "\f405";
+    }
+  
+    .devicons-jotai:before {
+      content: "\f406";
+    }
+  
+    .devicons-jquery:before {
+      content: "\f407";
+    }
+  
+    .devicons-jruby:before {
+      content: "\f408";
+    }
+  
+    .devicons-jsdelivr:before {
+      content: "\f409";
+    }
+  
+    .devicons-jsdom:before {
+      content: "\f40a";
+    }
+  
+    .devicons-jsfiddle:before {
+      content: "\f40b";
+    }
+  
+    .devicons-json-ld:before {
+      content: "\f40d";
+    }
+  
+    .devicons-json:before {
+      content: "\f40c";
+    }
+  
+    .devicons-jspm:before {
+      content: "\f40e";
+    }
+  
+    .devicons-jss:before {
+      content: "\f40f";
+    }
+  
+    .devicons-juju:before {
+      content: "\f410";
+    }
+  
+    .devicons-julia:before {
+      content: "\f411";
+    }
+  
+    .devicons-jupyter:before {
+      content: "\f412";
+    }
+  
+    .devicons-jwt-icon:before {
+      content: "\f414";
+    }
+  
+    .devicons-jwt:before {
+      content: "\f413";
+    }
+  
+    .devicons-kafka-icon:before {
+      content: "\f416";
+    }
+  
+    .devicons-kafka:before {
+      content: "\f415";
+    }
+  
+    .devicons-kaios:before {
+      content: "\f417";
+    }
+  
+    .devicons-kallithea:before {
+      content: "\f418";
+    }
+  
+    .devicons-karma:before {
+      content: "\f419";
+    }
+  
+    .devicons-katalon-icon:before {
+      content: "\f41b";
+    }
+  
+    .devicons-katalon:before {
+      content: "\f41a";
+    }
+  
+    .devicons-kde:before {
+      content: "\f41c";
+    }
+  
+    .devicons-keen:before {
+      content: "\f41d";
+    }
+  
+    .devicons-kemal:before {
+      content: "\f41e";
+    }
+  
+    .devicons-keycdn-icon:before {
+      content: "\f420";
+    }
+  
+    .devicons-keycdn:before {
+      content: "\f41f";
+    }
+  
+    .devicons-keydb-icon:before {
+      content: "\f422";
+    }
+  
+    .devicons-keydb:before {
+      content: "\f421";
+    }
+  
+    .devicons-keystonejs:before {
+      content: "\f423";
+    }
+  
+    .devicons-khan_academy-icon:before {
+      content: "\f425";
+    }
+  
+    .devicons-khan_academy:before {
+      content: "\f424";
+    }
+  
+    .devicons-kibana:before {
+      content: "\f426";
+    }
+  
+    .devicons-kickstarter-icon:before {
+      content: "\f428";
+    }
+  
+    .devicons-kickstarter:before {
+      content: "\f427";
+    }
+  
+    .devicons-kirby-icon:before {
+      content: "\f42a";
+    }
+  
+    .devicons-kirby:before {
+      content: "\f429";
+    }
+  
+    .devicons-knex:before {
+      content: "\f42b";
+    }
+  
+    .devicons-knockout:before {
+      content: "\f42c";
+    }
+  
+    .devicons-koa:before {
+      content: "\f42d";
+    }
+  
+    .devicons-kong-icon:before {
+      content: "\f42f";
+    }
+  
+    .devicons-kong:before {
+      content: "\f42e";
+    }
+  
+    .devicons-kops:before {
+      content: "\f430";
+    }
+  
+    .devicons-kotlin-icon:before {
+      content: "\f432";
+    }
+  
+    .devicons-kotlin:before {
+      content: "\f431";
+    }
+  
+    .devicons-krakenjs:before {
+      content: "\f433";
+    }
+  
+    .devicons-ktor-icon:before {
+      content: "\f435";
+    }
+  
+    .devicons-ktor:before {
+      content: "\f434";
+    }
+  
+    .devicons-kubernetes:before {
+      content: "\f436";
+    }
+  
+    .devicons-kustomer:before {
+      content: "\f437";
+    }
+  
+    .devicons-langchain:before {
+      content: "\f438";
+    }
+  
+    .devicons-langgraph-icon:before {
+      content: "\f7a9";
+    }
+  
+    .devicons-langgraph:before {
+      content: "\f439";
+    }
+  
+    .devicons-langsmith:before {
+      content: "\f43a";
+    }
+  
+    .devicons-languagetool:before {
+      content: "\f43b";
+    }
+  
+    .devicons-laravel:before {
+      content: "\f43c";
+    }
+  
+    .devicons-lastfm:before {
+      content: "\f43d";
+    }
+  
+    .devicons-launchdarkly-icon:before {
+      content: "\f43f";
+    }
+  
+    .devicons-launchdarkly:before {
+      content: "\f43e";
+    }
+  
+    .devicons-launchrock:before {
+      content: "\f440";
+    }
+  
+    .devicons-leaflet:before {
+      content: "\f441";
+    }
+  
+    .devicons-leankit-icon:before {
+      content: "\f443";
+    }
+  
+    .devicons-leankit:before {
+      content: "\f442";
+    }
+  
+    .devicons-lerna:before {
+      content: "\f444";
+    }
+  
+    .devicons-less:before {
+      content: "\f445";
+    }
+  
+    .devicons-lets-cloud:before {
+      content: "\f446";
+    }
+  
+    .devicons-letsencrypt:before {
+      content: "\f447";
+    }
+  
+    .devicons-lexical-icon:before {
+      content: "\f449";
+    }
+  
+    .devicons-lexical:before {
+      content: "\f448";
+    }
+  
+    .devicons-liftweb:before {
+      content: "\f44a";
+    }
+  
+    .devicons-lighthouse:before {
+      content: "\f44b";
+    }
+  
+    .devicons-lightstep-icon:before {
+      content: "\f44d";
+    }
+  
+    .devicons-lightstep:before {
+      content: "\f44c";
+    }
+  
+    .devicons-linear-icon:before {
+      content: "\f44f";
+    }
+  
+    .devicons-linear:before {
+      content: "\f44e";
+    }
+  
+    .devicons-linkerd:before {
+      content: "\f450";
+    }
+  
+    .devicons-linode:before {
+      content: "\f451";
+    }
+  
+    .devicons-linux-mint:before {
+      content: "\f452";
+    }
+  
+    .devicons-linux-tux:before {
+      content: "\f453";
+    }
+  
+    .devicons-lit-icon:before {
+      content: "\f455";
+    }
+  
+    .devicons-lit:before {
+      content: "\f454";
+    }
+  
+    .devicons-litmus:before {
+      content: "\f456";
+    }
+  
+    .devicons-llamaindex-icon:before {
+      content: "\f7aa";
+    }
+  
+    .devicons-llamaindex:before {
+      content: "\f7ab";
+    }
+  
+    .devicons-lm-studio-icon:before {
+      content: "\f7ac";
+    }
+  
+    .devicons-lm-studio:before {
+      content: "\f7ad";
+    }
+  
+    .devicons-loader:before {
+      content: "\f457";
+    }
+  
+    .devicons-lodash:before {
+      content: "\f458";
+    }
+  
+    .devicons-logentries:before {
+      content: "\f459";
+    }
+  
+    .devicons-logstash:before {
+      content: "\f45a";
+    }
+  
+    .devicons-lookback:before {
+      content: "\f45b";
+    }
+  
+    .devicons-looker-icon:before {
+      content: "\f45d";
+    }
+  
+    .devicons-looker:before {
+      content: "\f45c";
+    }
+  
+    .devicons-loopback-icon:before {
+      content: "\f45f";
+    }
+  
+    .devicons-loopback:before {
+      content: "\f45e";
+    }
+  
+    .devicons-losant:before {
+      content: "\f460";
+    }
+  
+    .devicons-lovable-icon:before {
+      content: "\f7ae";
+    }
+  
+    .devicons-lovable:before {
+      content: "\f7af";
+    }
+  
+    .devicons-lua:before {
+      content: "\f461";
+    }
+  
+    .devicons-lucene-net:before {
+      content: "\f463";
+    }
+  
+    .devicons-lucene:before {
+      content: "\f462";
+    }
+  
+    .devicons-lumen:before {
+      content: "\f464";
+    }
+  
+    .devicons-macOS:before {
+      content: "\f7b0";
+    }
+  
+    .devicons-maestro:before {
+      content: "\f466";
+    }
+  
+    .devicons-mageia:before {
+      content: "\f467";
+    }
+  
+    .devicons-mailchimp-icon:before {
+      content: "\f469";
+    }
+  
+    .devicons-mailchimp:before {
+      content: "\f468";
+    }
+  
+    .devicons-maildeveloper:before {
+      content: "\f46a";
+    }
+  
+    .devicons-mailgun-icon:before {
+      content: "\f46c";
+    }
+  
+    .devicons-mailgun:before {
+      content: "\f46b";
+    }
+  
+    .devicons-mailjet-icon:before {
+      content: "\f46e";
+    }
+  
+    .devicons-mailjet:before {
+      content: "\f46d";
+    }
+  
+    .devicons-malinajs:before {
+      content: "\f46f";
+    }
+  
+    .devicons-manjaro:before {
+      content: "\f470";
+    }
+  
+    .devicons-mantine-icon:before {
+      content: "\f472";
+    }
+  
+    .devicons-mantine:before {
+      content: "\f471";
+    }
+  
+    .devicons-mapbox-icon:before {
+      content: "\f474";
+    }
+  
+    .devicons-mapbox:before {
+      content: "\f473";
+    }
+  
+    .devicons-maps-me:before {
+      content: "\f475";
+    }
+  
+    .devicons-mapzen-icon:before {
+      content: "\f477";
+    }
+  
+    .devicons-mapzen:before {
+      content: "\f476";
+    }
+  
+    .devicons-mariadb-icon:before {
+      content: "\f479";
+    }
+  
+    .devicons-mariadb:before {
+      content: "\f478";
+    }
+  
+    .devicons-marionette:before {
+      content: "\f47a";
+    }
+  
+    .devicons-markdown:before {
+      content: "\f47b";
+    }
+  
+    .devicons-marko:before {
+      content: "\f47c";
+    }
+  
+    .devicons-marvel:before {
+      content: "\f47d";
+    }
+  
+    .devicons-mastercard:before {
+      content: "\f47e";
+    }
+  
+    .devicons-mastodon:before {
+      content: "\f47f";
+    }
+  
+    .devicons-material-ui:before {
+      content: "\f480";
+    }
+  
+    .devicons-materializecss:before {
+      content: "\f481";
+    }
+  
+    .devicons-matomo-icon:before {
+      content: "\f483";
+    }
+  
+    .devicons-matomo:before {
+      content: "\f482";
+    }
+  
+    .devicons-matter-icon:before {
+      content: "\f485";
+    }
+  
+    .devicons-matter:before {
+      content: "\f484";
+    }
+  
+    .devicons-mattermost-icon:before {
+      content: "\f487";
+    }
+  
+    .devicons-mattermost:before {
+      content: "\f486";
+    }
+  
+    .devicons-mautic-icon:before {
+      content: "\f489";
+    }
+  
+    .devicons-mautic:before {
+      content: "\f488";
+    }
+  
+    .devicons-maven:before {
+      content: "\f48a";
+    }
+  
+    .devicons-mcp-icon:before {
+      content: "\f7b1";
+    }
+  
+    .devicons-mcp:before {
+      content: "\f7b2";
+    }
+  
+    .devicons-mdn:before {
+      content: "\f48b";
+    }
+  
+    .devicons-mdx:before {
+      content: "\f48c";
+    }
+  
+    .devicons-medium-icon:before {
+      content: "\f48e";
+    }
+  
+    .devicons-medium:before {
+      content: "\f48d";
+    }
+  
+    .devicons-medusa-icon:before {
+      content: "\f490";
+    }
+  
+    .devicons-medusa:before {
+      content: "\f48f";
+    }
+  
+    .devicons-meilisearch:before {
+      content: "\f491";
+    }
+  
+    .devicons-memcached:before {
+      content: "\f492";
+    }
+  
+    .devicons-mention:before {
+      content: "\f493";
+    }
+  
+    .devicons-mercurial:before {
+      content: "\f494";
+    }
+  
+    .devicons-mesos:before {
+      content: "\f495";
+    }
+  
+    .devicons-messenger:before {
+      content: "\f496";
+    }
+  
+    .devicons-meta-icon:before {
+      content: "\f497";
+    }
+  
+    .devicons-meta:before {
+      content: "\f7b3";
+    }
+  
+    .devicons-metabase:before {
+      content: "\f498";
+    }
+  
+    .devicons-meteor-icon:before {
+      content: "\f49a";
+    }
+  
+    .devicons-meteor:before {
+      content: "\f499";
+    }
+  
+    .devicons-micro-icon:before {
+      content: "\f49c";
+    }
+  
+    .devicons-micro-python:before {
+      content: "\f49d";
+    }
+  
+    .devicons-micro:before {
+      content: "\f49b";
+    }
+  
+    .devicons-microcosm:before {
+      content: "\f49e";
+    }
+  
+    .devicons-micron-icon:before {
+      content: "\f4a0";
+    }
+  
+    .devicons-micron:before {
+      content: "\f49f";
+    }
+  
+    .devicons-microsoft-azure:before {
+      content: "\f4a2";
+    }
+  
+    .devicons-microsoft-edge:before {
+      content: "\f4a3";
+    }
+  
+    .devicons-microsoft-icon:before {
+      content: "\f4a4";
+    }
+  
+    .devicons-microsoft-onedrive:before {
+      content: "\f4a5";
+    }
+  
+    .devicons-microsoft-teams:before {
+      content: "\f4a6";
+    }
+  
+    .devicons-microsoft-windows-icon:before {
+      content: "\f4a8";
+    }
+  
+    .devicons-microsoft-windows:before {
+      content: "\f4a7";
+    }
+  
+    .devicons-microsoft:before {
+      content: "\f4a1";
+    }
+  
+    .devicons-mida-icon:before {
+      content: "\f4aa";
+    }
+  
+    .devicons-mida:before {
+      content: "\f4a9";
+    }
+  
+    .devicons-middleman:before {
+      content: "\f4ab";
+    }
+  
+    .devicons-midjourney:before {
+      content: "\f4ac";
+    }
+  
+    .devicons-milligram:before {
+      content: "\f4ad";
+    }
+  
+    .devicons-million-icon:before {
+      content: "\f4af";
+    }
+  
+    .devicons-million:before {
+      content: "\f4ae";
+    }
+  
+    .devicons-milvus-icon:before {
+      content: "\f4b1";
+    }
+  
+    .devicons-milvus:before {
+      content: "\f4b0";
+    }
+  
+    .devicons-mindsdb-icon:before {
+      content: "\f4b3";
+    }
+  
+    .devicons-mindsdb:before {
+      content: "\f4b2";
+    }
+  
+    .devicons-mint-lang:before {
+      content: "\f4b4";
+    }
+  
+    .devicons-mist:before {
+      content: "\f4b5";
+    }
+  
+    .devicons-mistral-ai-icon:before {
+      content: "\f4b7";
+    }
+  
+    .devicons-mistral-ai:before {
+      content: "\f4b6";
+    }
+  
+    .devicons-mithril:before {
+      content: "\f4b8";
+    }
+  
+    .devicons-mixmax:before {
+      content: "\f4b9";
+    }
+  
+    .devicons-mixpanel:before {
+      content: "\f4ba";
+    }
+  
+    .devicons-mlab:before {
+      content: "\f4bb";
+    }
+  
+    .devicons-mobx:before {
+      content: "\f4bc";
+    }
+  
+    .devicons-mocha:before {
+      content: "\f4bd";
+    }
+  
+    .devicons-mockflow-icon:before {
+      content: "\f4bf";
+    }
+  
+    .devicons-mockflow:before {
+      content: "\f4be";
+    }
+  
+    .devicons-modernizr:before {
+      content: "\f4c0";
+    }
+  
+    .devicons-modx-icon:before {
+      content: "\f4c2";
+    }
+  
+    .devicons-modx:before {
+      content: "\f4c1";
+    }
+  
+    .devicons-momentjs:before {
+      content: "\f4c3";
+    }
+  
+    .devicons-monday-icon:before {
+      content: "\f4c5";
+    }
+  
+    .devicons-monday:before {
+      content: "\f4c4";
+    }
+  
+    .devicons-monero:before {
+      content: "\f4c6";
+    }
+  
+    .devicons-mongodb-icon:before {
+      content: "\f4c8";
+    }
+  
+    .devicons-mongodb:before {
+      content: "\f4c7";
+    }
+  
+    .devicons-mono:before {
+      content: "\f4c9";
+    }
+  
+    .devicons-mootools:before {
+      content: "\f4ca";
+    }
+  
+    .devicons-morpheus-icon:before {
+      content: "\f4cc";
+    }
+  
+    .devicons-morpheus:before {
+      content: "\f4cb";
+    }
+  
+    .devicons-mozilla:before {
+      content: "\f4cd";
+    }
+  
+    .devicons-mparticle-icon:before {
+      content: "\f4cf";
+    }
+  
+    .devicons-mparticle:before {
+      content: "\f4ce";
+    }
+  
+    .devicons-msw:before {
+      content: "\f4d0";
+    }
+  
+    .devicons-multipass:before {
+      content: "\f4d1";
+    }
+  
+    .devicons-mysql-icon:before {
+      content: "\f4d3";
+    }
+  
+    .devicons-mysql:before {
+      content: "\f4d2";
+    }
+  
+    .devicons-n8n-icon:before {
+      content: "\f7b4";
+    }
+  
+    .devicons-n8n:before {
+      content: "\f7b5";
+    }
+  
+    .devicons-naiveui:before {
+      content: "\f4d4";
+    }
+  
+    .devicons-namecheap:before {
+      content: "\f4d5";
+    }
+  
+    .devicons-nanobanana:before {
+      content: "\f4d6";
+    }
+  
+    .devicons-nanonets:before {
+      content: "\f4d7";
+    }
+  
+    .devicons-nasm:before {
+      content: "\f4d8";
+    }
+  
+    .devicons-nativescript:before {
+      content: "\f4d9";
+    }
+  
+    .devicons-nats-icon:before {
+      content: "\f4db";
+    }
+  
+    .devicons-nats:before {
+      content: "\f4da";
+    }
+  
+    .devicons-neat:before {
+      content: "\f4dc";
+    }
+  
+    .devicons-neo4j:before {
+      content: "\f4dd";
+    }
+  
+    .devicons-neon-icon:before {
+      content: "\f4df";
+    }
+  
+    .devicons-neon:before {
+      content: "\f4de";
+    }
+  
+    .devicons-neovim:before {
+      content: "\f4e0";
+    }
+  
+    .devicons-nestjs:before {
+      content: "\f4e1";
+    }
+  
+    .devicons-netbeans:before {
+      content: "\f4e2";
+    }
+  
+    .devicons-netlify-icon:before {
+      content: "\f4e4";
+    }
+  
+    .devicons-netlify:before {
+      content: "\f4e3";
+    }
+  
+    .devicons-new-relic-icon:before {
+      content: "\f4e6";
+    }
+  
+    .devicons-new-relic:before {
+      content: "\f4e5";
+    }
+  
+    .devicons-nextjs-icon:before {
+      content: "\f4e8";
+    }
+  
+    .devicons-nextjs:before {
+      content: "\f4e7";
+    }
+  
+    .devicons-nginx:before {
+      content: "\f4e9";
+    }
+  
+    .devicons-ngrok:before {
+      content: "\f4ea";
+    }
+  
+    .devicons-nhost-icon:before {
+      content: "\f4ec";
+    }
+  
+    .devicons-nhost:before {
+      content: "\f4eb";
+    }
+  
+    .devicons-nim-lang:before {
+      content: "\f4ed";
+    }
+  
+    .devicons-nocodb:before {
+      content: "\f4ee";
+    }
+  
+    .devicons-nodal:before {
+      content: "\f4ef";
+    }
+  
+    .devicons-node-sass:before {
+      content: "\f4f0";
+    }
+  
+    .devicons-nodebots:before {
+      content: "\f4f1";
+    }
+  
+    .devicons-nodejs-icon:before {
+      content: "\f4f3";
+    }
+  
+    .devicons-nodejs:before {
+      content: "\f4f2";
+    }
+  
+    .devicons-nodemon:before {
+      content: "\f4f4";
+    }
+  
+    .devicons-nodeos:before {
+      content: "\f4f5";
+    }
+  
+    .devicons-nodewebkit:before {
+      content: "\f4f6";
+    }
+  
+    .devicons-nomad-icon:before {
+      content: "\f4f8";
+    }
+  
+    .devicons-nomad:before {
+      content: "\f4f7";
+    }
+  
+    .devicons-notion-icon:before {
+      content: "\f4fa";
+    }
+  
+    .devicons-notion:before {
+      content: "\f4f9";
+    }
+  
+    .devicons-noysi:before {
+      content: "\f4fb";
+    }
+  
+    .devicons-npm-icon:before {
+      content: "\f4fd";
+    }
+  
+    .devicons-npm:before {
+      content: "\f4fc";
+    }
+  
+    .devicons-nuclide:before {
+      content: "\f4fe";
+    }
+  
+    .devicons-numpy:before {
+      content: "\f4ff";
+    }
+  
+    .devicons-nuxt-icon:before {
+      content: "\f501";
+    }
+  
+    .devicons-nuxt:before {
+      content: "\f500";
+    }
+  
+    .devicons-nvidia:before {
+      content: "\f502";
+    }
+  
+    .devicons-nvm:before {
+      content: "\f503";
+    }
+  
+    .devicons-nx:before {
+      content: "\f504";
+    }
+  
+    .devicons-oauth:before {
+      content: "\f505";
+    }
+  
+    .devicons-observablehq:before {
+      content: "\f506";
+    }
+  
+    .devicons-obsidian-icon:before {
+      content: "\f508";
+    }
+  
+    .devicons-obsidian:before {
+      content: "\f507";
+    }
+  
+    .devicons-ocaml:before {
+      content: "\f509";
+    }
+  
+    .devicons-octodns:before {
+      content: "\f50a";
+    }
+  
+    .devicons-octopus-deploy:before {
+      content: "\f50b";
+    }
+  
+    .devicons-okta-icon:before {
+      content: "\f50d";
+    }
+  
+    .devicons-okta:before {
+      content: "\f50c";
+    }
+  
+    .devicons-olark:before {
+      content: "\f50e";
+    }
+  
+    .devicons-ollama-icon:before {
+      content: "\f7b6";
+    }
+  
+    .devicons-ollama:before {
+      content: "\f7b7";
+    }
+  
+    .devicons-onesignal:before {
+      content: "\f50f";
+    }
+  
+    .devicons-open-graph:before {
+      content: "\f510";
+    }
+  
+    .devicons-open-zeppelin-icon:before {
+      content: "\f512";
+    }
+  
+    .devicons-open-zeppelin:before {
+      content: "\f511";
+    }
+  
+    .devicons-openai-icon:before {
+      content: "\f514";
+    }
+  
+    .devicons-openai:before {
+      content: "\f513";
+    }
+  
+    .devicons-openapi-icon:before {
+      content: "\f516";
+    }
+  
+    .devicons-openapi:before {
+      content: "\f515";
+    }
+  
+    .devicons-opencart:before {
+      content: "\f517";
+    }
+  
+    .devicons-openclaw:before {
+      content: "\f518";
+    }
+  
+    .devicons-opencollective:before {
+      content: "\f519";
+    }
+  
+    .devicons-opencv:before {
+      content: "\f51a";
+    }
+  
+    .devicons-openframeworks:before {
+      content: "\f51b";
+    }
+  
+    .devicons-opengl:before {
+      content: "\f51c";
+    }
+  
+    .devicons-openjs-foundation-icon:before {
+      content: "\f51e";
+    }
+  
+    .devicons-openjs-foundation:before {
+      content: "\f51d";
+    }
+  
+    .devicons-openlayers:before {
+      content: "\f51f";
+    }
+  
+    .devicons-opensearch-icon:before {
+      content: "\f521";
+    }
+  
+    .devicons-opensearch:before {
+      content: "\f520";
+    }
+  
+    .devicons-openshift:before {
+      content: "\f522";
+    }
+  
+    .devicons-opensource:before {
+      content: "\f523";
+    }
+  
+    .devicons-openstack-icon:before {
+      content: "\f525";
+    }
+  
+    .devicons-openstack:before {
+      content: "\f524";
+    }
+  
+    .devicons-opentelemetry-icon:before {
+      content: "\f527";
+    }
+  
+    .devicons-opentelemetry:before {
+      content: "\f526";
+    }
+  
+    .devicons-opera:before {
+      content: "\f528";
+    }
+  
+    .devicons-opsgenie:before {
+      content: "\f529";
+    }
+  
+    .devicons-optimizely-icon:before {
+      content: "\f52b";
+    }
+  
+    .devicons-optimizely:before {
+      content: "\f52a";
+    }
+  
+    .devicons-oracle:before {
+      content: "\f52c";
+    }
+  
+    .devicons-oreilly:before {
+      content: "\f52d";
+    }
+  
+    .devicons-origami:before {
+      content: "\f52e";
+    }
+  
+    .devicons-origin:before {
+      content: "\f52f";
+    }
+  
+    .devicons-orval:before {
+      content: "\f530";
+    }
+  
+    .devicons-oshw:before {
+      content: "\f531";
+    }
+  
+    .devicons-osquery:before {
+      content: "\f532";
+    }
+  
+    .devicons-overloop-icon:before {
+      content: "\f534";
+    }
+  
+    .devicons-overloop:before {
+      content: "\f533";
+    }
+  
+    .devicons-p5js:before {
+      content: "\f535";
+    }
+  
+    .devicons-packer:before {
+      content: "\f536";
+    }
+  
+    .devicons-pagekit:before {
+      content: "\f537";
+    }
+  
+    .devicons-pagekite:before {
+      content: "\f538";
+    }
+  
+    .devicons-pagerduty-icon:before {
+      content: "\f53a";
+    }
+  
+    .devicons-pagerduty:before {
+      content: "\f539";
+    }
+  
+    .devicons-panda:before {
+      content: "\f53b";
+    }
+  
+    .devicons-pandacss-icon:before {
+      content: "\f53d";
+    }
+  
+    .devicons-pandacss:before {
+      content: "\f53c";
+    }
+  
+    .devicons-pandas-icon:before {
+      content: "\f53f";
+    }
+  
+    .devicons-pandas:before {
+      content: "\f53e";
+    }
+  
+    .devicons-parcel-icon:before {
+      content: "\f541";
+    }
+  
+    .devicons-parcel:before {
+      content: "\f540";
+    }
+  
+    .devicons-parse:before {
+      content: "\f542";
+    }
+  
+    .devicons-parsehub:before {
+      content: "\f543";
+    }
+  
+    .devicons-partytown-icon:before {
+      content: "\f545";
+    }
+  
+    .devicons-partytown:before {
+      content: "\f544";
+    }
+  
+    .devicons-passbolt-icon:before {
+      content: "\f547";
+    }
+  
+    .devicons-passbolt:before {
+      content: "\f546";
+    }
+  
+    .devicons-passport:before {
+      content: "\f548";
+    }
+  
+    .devicons-patreon:before {
+      content: "\f549";
+    }
+  
+    .devicons-payload:before {
+      content: "\f54a";
+    }
+  
+    .devicons-paypal:before {
+      content: "\f54b";
+    }
+  
+    .devicons-peer5:before {
+      content: "\f54c";
+    }
+  
+    .devicons-percona:before {
+      content: "\f54d";
+    }
+  
+    .devicons-percy-icon:before {
+      content: "\f54f";
+    }
+  
+    .devicons-percy:before {
+      content: "\f54e";
+    }
+  
+    .devicons-perf-rocks:before {
+      content: "\f550";
+    }
+  
+    .devicons-perl:before {
+      content: "\f551";
+    }
+  
+    .devicons-perplexity-icon:before {
+      content: "\f7b8";
+    }
+  
+    .devicons-perplexity:before {
+      content: "\f7b9";
+    }
+  
+    .devicons-phoenix:before {
+      content: "\f552";
+    }
+  
+    .devicons-php-alt:before {
+      content: "\f554";
+    }
+  
+    .devicons-php:before {
+      content: "\f553";
+    }
+  
+    .devicons-phpstorm:before {
+      content: "\f555";
+    }
+  
+    .devicons-pinecone-icon:before {
+      content: "\f557";
+    }
+  
+    .devicons-pinecone:before {
+      content: "\f556";
+    }
+  
+    .devicons-pinia:before {
+      content: "\f558";
+    }
+  
+    .devicons-pinterest:before {
+      content: "\f559";
+    }
+  
+    .devicons-pipedream:before {
+      content: "\f55a";
+    }
+  
+    .devicons-pipedrive:before {
+      content: "\f55b";
+    }
+  
+    .devicons-pipefy:before {
+      content: "\f55c";
+    }
+  
+    .devicons-pivotal_tracker:before {
+      content: "\f55d";
+    }
+  
+    .devicons-pixijs:before {
+      content: "\f55e";
+    }
+  
+    .devicons-pkg:before {
+      content: "\f55f";
+    }
+  
+    .devicons-planetscale:before {
+      content: "\f560";
+    }
+  
+    .devicons-planless-icon:before {
+      content: "\f562";
+    }
+  
+    .devicons-planless:before {
+      content: "\f561";
+    }
+  
+    .devicons-plasmic:before {
+      content: "\f563";
+    }
+  
+    .devicons-plastic-scm:before {
+      content: "\f564";
+    }
+  
+    .devicons-platformio:before {
+      content: "\f565";
+    }
+  
+    .devicons-play:before {
+      content: "\f566";
+    }
+  
+    .devicons-playwright:before {
+      content: "\f567";
+    }
+  
+    .devicons-pluralsight-icon:before {
+      content: "\f569";
+    }
+  
+    .devicons-pluralsight:before {
+      content: "\f568";
+    }
+  
+    .devicons-pm2-icon:before {
+      content: "\f56b";
+    }
+  
+    .devicons-pm2:before {
+      content: "\f56a";
+    }
+  
+    .devicons-pnpm:before {
+      content: "\f56c";
+    }
+  
+    .devicons-pocket-base:before {
+      content: "\f56d";
+    }
+  
+    .devicons-polymer:before {
+      content: "\f56e";
+    }
+  
+    .devicons-postcss:before {
+      content: "\f56f";
+    }
+  
+    .devicons-postgresql:before {
+      content: "\f570";
+    }
+  
+    .devicons-posthog-icon:before {
+      content: "\f572";
+    }
+  
+    .devicons-posthog:before {
+      content: "\f571";
+    }
+  
+    .devicons-postman-icon:before {
+      content: "\f574";
+    }
+  
+    .devicons-postman:before {
+      content: "\f573";
+    }
+  
+    .devicons-pouchdb:before {
+      content: "\f575";
+    }
+  
+    .devicons-preact:before {
+      content: "\f576";
+    }
+  
+    .devicons-precursor:before {
+      content: "\f577";
+    }
+  
+    .devicons-prerender-icon:before {
+      content: "\f579";
+    }
+  
+    .devicons-prerender:before {
+      content: "\f578";
+    }
+  
+    .devicons-presto-icon:before {
+      content: "\f57b";
+    }
+  
+    .devicons-presto:before {
+      content: "\f57a";
+    }
+  
+    .devicons-prettier:before {
+      content: "\f57c";
+    }
+  
+    .devicons-prisma:before {
+      content: "\f57d";
+    }
+  
+    .devicons-prismic-icon:before {
+      content: "\f57f";
+    }
+  
+    .devicons-prismic:before {
+      content: "\f57e";
+    }
+  
+    .devicons-processing:before {
+      content: "\f580";
+    }
+  
+    .devicons-processwire-icon:before {
+      content: "\f582";
+    }
+  
+    .devicons-processwire:before {
+      content: "\f581";
+    }
+  
+    .devicons-productboard-icon:before {
+      content: "\f584";
+    }
+  
+    .devicons-productboard:before {
+      content: "\f583";
+    }
+  
+    .devicons-producthunt:before {
+      content: "\f585";
+    }
+  
+    .devicons-prometheus:before {
+      content: "\f586";
+    }
+  
+    .devicons-promises:before {
+      content: "\f587";
+    }
+  
+    .devicons-proofy:before {
+      content: "\f588";
+    }
+  
+    .devicons-protoio:before {
+      content: "\f589";
+    }
+  
+    .devicons-protonet:before {
+      content: "\f58a";
+    }
+  
+    .devicons-protractor:before {
+      content: "\f58b";
+    }
+  
+    .devicons-pug:before {
+      content: "\f58c";
+    }
+  
+    .devicons-pulumi-icon:before {
+      content: "\f58e";
+    }
+  
+    .devicons-pulumi:before {
+      content: "\f58d";
+    }
+  
+    .devicons-puppet-icon:before {
+      content: "\f590";
+    }
+  
+    .devicons-puppet:before {
+      content: "\f58f";
+    }
+  
+    .devicons-puppeteer:before {
+      content: "\f591";
+    }
+  
+    .devicons-purescript-icon:before {
+      content: "\f593";
+    }
+  
+    .devicons-purescript:before {
+      content: "\f592";
+    }
+  
+    .devicons-pushbullet:before {
+      content: "\f594";
+    }
+  
+    .devicons-pusher-icon:before {
+      content: "\f596";
+    }
+  
+    .devicons-pusher:before {
+      content: "\f595";
+    }
+  
+    .devicons-pwa:before {
+      content: "\f597";
+    }
+  
+    .devicons-pycharm:before {
+      content: "\f598";
+    }
+  
+    .devicons-pyscript:before {
+      content: "\f599";
+    }
+  
+    .devicons-python:before {
+      content: "\f59a";
+    }
+  
+    .devicons-pytorch-icon:before {
+      content: "\f59c";
+    }
+  
+    .devicons-pytorch:before {
+      content: "\f59b";
+    }
+  
+    .devicons-pyup:before {
+      content: "\f59d";
+    }
+  
+    .devicons-q:before {
+      content: "\f59e";
+    }
+  
+    .devicons-qlik:before {
+      content: "\f59f";
+    }
+  
+    .devicons-qt:before {
+      content: "\f5a0";
+    }
+  
+    .devicons-qualcomm:before {
+      content: "\f5a1";
+    }
+  
+    .devicons-quarkus-icon:before {
+      content: "\f5a3";
+    }
+  
+    .devicons-quarkus:before {
+      content: "\f5a2";
+    }
+  
+    .devicons-quobyte:before {
+      content: "\f5a4";
+    }
+  
+    .devicons-quora:before {
+      content: "\f5a5";
+    }
+  
+    .devicons-qwik-icon:before {
+      content: "\f5a7";
+    }
+  
+    .devicons-qwik:before {
+      content: "\f5a6";
+    }
+  
+    .devicons-r-lang:before {
+      content: "\f5a8";
+    }
+  
+    .devicons-rabbitmq-icon:before {
+      content: "\f5aa";
+    }
+  
+    .devicons-rabbitmq:before {
+      content: "\f5a9";
+    }
+  
+    .devicons-rackspace-icon:before {
+      content: "\f5ac";
+    }
+  
+    .devicons-rackspace:before {
+      content: "\f5ab";
+    }
+  
+    .devicons-radix-ui:before {
+      content: "\f5ad";
+    }
+  
+    .devicons-rails-icon:before {
+      content: "\f5af";
+    }
+  
+    .devicons-rails:before {
+      content: "\f5ae";
+    }
+  
+    .devicons-ramda:before {
+      content: "\f5b0";
+    }
+  
+    .devicons-raml:before {
+      content: "\f5b1";
+    }
+  
+    .devicons-rancher-icon:before {
+      content: "\f5b3";
+    }
+  
+    .devicons-rancher:before {
+      content: "\f5b2";
+    }
+  
+    .devicons-raphael:before {
+      content: "\f5b4";
+    }
+  
+    .devicons-raspberry-pi:before {
+      content: "\f5b5";
+    }
+  
+    .devicons-rax:before {
+      content: "\f5b6";
+    }
+  
+    .devicons-react-query-icon:before {
+      content: "\f5b9";
+    }
+  
+    .devicons-react-query:before {
+      content: "\f5b8";
+    }
+  
+    .devicons-react-router:before {
+      content: "\f5ba";
+    }
+  
+    .devicons-react-spring:before {
+      content: "\f5bb";
+    }
+  
+    .devicons-react:before {
+      content: "\f5b7";
+    }
+  
+    .devicons-reactivex:before {
+      content: "\f5bc";
+    }
+  
+    .devicons-reapp:before {
+      content: "\f5bd";
+    }
+  
+    .devicons-reasonml-icon:before {
+      content: "\f5bf";
+    }
+  
+    .devicons-reasonml:before {
+      content: "\f5be";
+    }
+  
+    .devicons-recaptcha:before {
+      content: "\f5c0";
+    }
+  
+    .devicons-recoil-icon:before {
+      content: "\f5c2";
+    }
+  
+    .devicons-recoil:before {
+      content: "\f5c1";
+    }
+  
+    .devicons-reddit-icon:before {
+      content: "\f5c4";
+    }
+  
+    .devicons-reddit:before {
+      content: "\f5c3";
+    }
+  
+    .devicons-redhat-icon:before {
+      content: "\f5c6";
+    }
+  
+    .devicons-redhat:before {
+      content: "\f5c5";
+    }
+  
+    .devicons-redis-icon:before {
+      content: "\f5c8";
+    }
+  
+    .devicons-redis:before {
+      content: "\f5c7";
+    }
+  
+    .devicons-redsmin:before {
+      content: "\f5c9";
+    }
+  
+    .devicons-redux-saga:before {
+      content: "\f5cb";
+    }
+  
+    .devicons-redux:before {
+      content: "\f5ca";
+    }
+  
+    .devicons-redwoodjs:before {
+      content: "\f5cc";
+    }
+  
+    .devicons-reindex:before {
+      content: "\f5cd";
+    }
+  
+    .devicons-relay:before {
+      content: "\f5ce";
+    }
+  
+    .devicons-release:before {
+      content: "\f5cf";
+    }
+  
+    .devicons-remix-icon:before {
+      content: "\f5d1";
+    }
+  
+    .devicons-remix:before {
+      content: "\f5d0";
+    }
+  
+    .devicons-renovatebot:before {
+      content: "\f5d2";
+    }
+  
+    .devicons-replay-icon:before {
+      content: "\f5d4";
+    }
+  
+    .devicons-replay:before {
+      content: "\f5d3";
+    }
+  
+    .devicons-replit-icon:before {
+      content: "\f5d6";
+    }
+  
+    .devicons-replit:before {
+      content: "\f5d5";
+    }
+  
+    .devicons-require:before {
+      content: "\f5d7";
+    }
+  
+    .devicons-rescript-icon:before {
+      content: "\f5d9";
+    }
+  
+    .devicons-rescript:before {
+      content: "\f5d8";
+    }
+  
+    .devicons-rest-li:before {
+      content: "\f5da";
+    }
+  
+    .devicons-rethinkdb:before {
+      content: "\f5db";
+    }
+  
+    .devicons-retool-icon:before {
+      content: "\f5dd";
+    }
+  
+    .devicons-retool:before {
+      content: "\f5dc";
+    }
+  
+    .devicons-riak:before {
+      content: "\f5de";
+    }
+  
+    .devicons-rider:before {
+      content: "\f5df";
+    }
+  
+    .devicons-riot:before {
+      content: "\f5e0";
+    }
+  
+    .devicons-risingwave-icon:before {
+      content: "\f5e2";
+    }
+  
+    .devicons-risingwave:before {
+      content: "\f5e1";
+    }
+  
+    .devicons-rocket-chat-icon:before {
+      content: "\f5e4";
+    }
+  
+    .devicons-rocket-chat:before {
+      content: "\f5e3";
+    }
+  
+    .devicons-rocksdb:before {
+      content: "\f5e5";
+    }
+  
+    .devicons-rocky-linux-icon:before {
+      content: "\f5e7";
+    }
+  
+    .devicons-rocky-linux:before {
+      content: "\f5e6";
+    }
+  
+    .devicons-rollbar-icon:before {
+      content: "\f5e9";
+    }
+  
+    .devicons-rollbar:before {
+      content: "\f5e8";
+    }
+  
+    .devicons-rollupjs:before {
+      content: "\f5ea";
+    }
+  
+    .devicons-rome-icon:before {
+      content: "\f5ec";
+    }
+  
+    .devicons-rome:before {
+      content: "\f5eb";
+    }
+  
+    .devicons-ros:before {
+      content: "\f5ed";
+    }
+  
+    .devicons-rsa:before {
+      content: "\f5ee";
+    }
+  
+    .devicons-rubocop:before {
+      content: "\f5ef";
+    }
+  
+    .devicons-ruby:before {
+      content: "\f5f0";
+    }
+  
+    .devicons-rubygems:before {
+      content: "\f5f1";
+    }
+  
+    .devicons-rubymine:before {
+      content: "\f5f2";
+    }
+  
+    .devicons-rum:before {
+      content: "\f5f3";
+    }
+  
+    .devicons-runscope:before {
+      content: "\f5f4";
+    }
+  
+    .devicons-runway-icon:before {
+      content: "\f7ba";
+    }
+  
+    .devicons-runway:before {
+      content: "\f7bb";
+    }
+  
+    .devicons-rush-icon:before {
+      content: "\f5f6";
+    }
+  
+    .devicons-rush:before {
+      content: "\f5f5";
+    }
+  
+    .devicons-rust:before {
+      content: "\f5f7";
+    }
+  
+    .devicons-rxdb:before {
+      content: "\f5f8";
+    }
+  
+    .devicons-safari:before {
+      content: "\f5f9";
+    }
+  
+    .devicons-sagui:before {
+      content: "\f5fa";
+    }
+  
+    .devicons-sails:before {
+      content: "\f5fb";
+    }
+  
+    .devicons-salesforce:before {
+      content: "\f5fc";
+    }
+  
+    .devicons-sameroom:before {
+      content: "\f5fd";
+    }
+  
+    .devicons-samsung:before {
+      content: "\f5fe";
+    }
+  
+    .devicons-sanity:before {
+      content: "\f5ff";
+    }
+  
+    .devicons-sap:before {
+      content: "\f600";
+    }
+  
+    .devicons-sass-doc:before {
+      content: "\f602";
+    }
+  
+    .devicons-sass:before {
+      content: "\f601";
+    }
+  
+    .devicons-saucelabs:before {
+      content: "\f603";
+    }
+  
+    .devicons-scala:before {
+      content: "\f604";
+    }
+  
+    .devicons-scaledrone:before {
+      content: "\f605";
+    }
+  
+    .devicons-scribd-icon:before {
+      content: "\f607";
+    }
+  
+    .devicons-scribd:before {
+      content: "\f606";
+    }
+  
+    .devicons-seaborn-icon:before {
+      content: "\f609";
+    }
+  
+    .devicons-seaborn:before {
+      content: "\f608";
+    }
+  
+    .devicons-section-icon:before {
+      content: "\f60b";
+    }
+  
+    .devicons-section:before {
+      content: "\f60a";
+    }
+  
+    .devicons-segment-icon:before {
+      content: "\f60d";
+    }
+  
+    .devicons-segment:before {
+      content: "\f60c";
+    }
+  
+    .devicons-selenium:before {
+      content: "\f60e";
+    }
+  
+    .devicons-semantic-release:before {
+      content: "\f60f";
+    }
+  
+    .devicons-semantic-ui:before {
+      content: "\f610";
+    }
+  
+    .devicons-semantic-web:before {
+      content: "\f611";
+    }
+  
+    .devicons-semaphoreci:before {
+      content: "\f612";
+    }
+  
+    .devicons-sencha:before {
+      content: "\f613";
+    }
+  
+    .devicons-sendgrid-icon:before {
+      content: "\f615";
+    }
+  
+    .devicons-sendgrid:before {
+      content: "\f614";
+    }
+  
+    .devicons-seneca:before {
+      content: "\f616";
+    }
+  
+    .devicons-sensu-icon:before {
+      content: "\f618";
+    }
+  
+    .devicons-sensu:before {
+      content: "\f617";
+    }
+  
+    .devicons-sentry-icon:before {
+      content: "\f61a";
+    }
+  
+    .devicons-sentry:before {
+      content: "\f619";
+    }
+  
+    .devicons-sequelize:before {
+      content: "\f61b";
+    }
+  
+    .devicons-serverless:before {
+      content: "\f61c";
+    }
+  
+    .devicons-sherlock-icon:before {
+      content: "\f61e";
+    }
+  
+    .devicons-sherlock:before {
+      content: "\f61d";
+    }
+  
+    .devicons-shields:before {
+      content: "\f61f";
+    }
+  
+    .devicons-shogun:before {
+      content: "\f620";
+    }
+  
+    .devicons-shopify:before {
+      content: "\f621";
+    }
+  
+    .devicons-shortcut-icon:before {
+      content: "\f623";
+    }
+  
+    .devicons-shortcut:before {
+      content: "\f622";
+    }
+  
+    .devicons-sidekiq-icon:before {
+      content: "\f625";
+    }
+  
+    .devicons-sidekiq:before {
+      content: "\f624";
+    }
+  
+    .devicons-signal:before {
+      content: "\f626";
+    }
+  
+    .devicons-sigstore-icon:before {
+      content: "\f628";
+    }
+  
+    .devicons-sigstore:before {
+      content: "\f627";
+    }
+  
+    .devicons-sinatra:before {
+      content: "\f629";
+    }
+  
+    .devicons-singlestore-icon:before {
+      content: "\f62b";
+    }
+  
+    .devicons-singlestore:before {
+      content: "\f62a";
+    }
+  
+    .devicons-sitepoint:before {
+      content: "\f62c";
+    }
+  
+    .devicons-sk-hynix:before {
+      content: "\f62d";
+    }
+  
+    .devicons-skaffolder:before {
+      content: "\f62e";
+    }
+  
+    .devicons-sketch:before {
+      content: "\f62f";
+    }
+  
+    .devicons-skylight:before {
+      content: "\f630";
+    }
+  
+    .devicons-skype:before {
+      content: "\f631";
+    }
+  
+    .devicons-slack-icon:before {
+      content: "\f633";
+    }
+  
+    .devicons-slack:before {
+      content: "\f632";
+    }
+  
+    .devicons-slides:before {
+      content: "\f634";
+    }
+  
+    .devicons-slim:before {
+      content: "\f635";
+    }
+  
+    .devicons-smartling:before {
+      content: "\f636";
+    }
+  
+    .devicons-smashingmagazine:before {
+      content: "\f637";
+    }
+  
+    .devicons-snap-svg:before {
+      content: "\f638";
+    }
+  
+    .devicons-snaplet-icon:before {
+      content: "\f63a";
+    }
+  
+    .devicons-snaplet:before {
+      content: "\f639";
+    }
+  
+    .devicons-snowflake-icon:before {
+      content: "\f63c";
+    }
+  
+    .devicons-snowflake:before {
+      content: "\f63b";
+    }
+  
+    .devicons-snowpack:before {
+      content: "\f63d";
+    }
+  
+    .devicons-snyk:before {
+      content: "\f63e";
+    }
+  
+    .devicons-socketio:before {
+      content: "\f63f";
+    }
+  
+    .devicons-solarwinds:before {
+      content: "\f640";
+    }
+  
+    .devicons-solid:before {
+      content: "\f641";
+    }
+  
+    .devicons-solidity:before {
+      content: "\f642";
+    }
+  
+    .devicons-solidjs-icon:before {
+      content: "\f644";
+    }
+  
+    .devicons-solidjs:before {
+      content: "\f643";
+    }
+  
+    .devicons-solr:before {
+      content: "\f645";
+    }
+  
+    .devicons-sonarcloud-icon:before {
+      content: "\f647";
+    }
+  
+    .devicons-sonarcloud:before {
+      content: "\f646";
+    }
+  
+    .devicons-sonarlint-icon:before {
+      content: "\f649";
+    }
+  
+    .devicons-sonarlint:before {
+      content: "\f648";
+    }
+  
+    .devicons-sonarqube:before {
+      content: "\f64a";
+    }
+  
+    .devicons-sora-icon:before {
+      content: "\f7bc";
+    }
+  
+    .devicons-sora:before {
+      content: "\f7bd";
+    }
+  
+    .devicons-soundcloud:before {
+      content: "\f64b";
+    }
+  
+    .devicons-sourcegraph:before {
+      content: "\f64c";
+    }
+  
+    .devicons-sourcetree:before {
+      content: "\f64d";
+    }
+  
+    .devicons-sparkpost:before {
+      content: "\f64e";
+    }
+  
+    .devicons-speakerdeck:before {
+      content: "\f64f";
+    }
+  
+    .devicons-speedcurve:before {
+      content: "\f650";
+    }
+  
+    .devicons-spidermonkey-icon:before {
+      content: "\f652";
+    }
+  
+    .devicons-spidermonkey:before {
+      content: "\f651";
+    }
+  
+    .devicons-spinnaker:before {
+      content: "\f653";
+    }
+  
+    .devicons-splunk:before {
+      content: "\f654";
+    }
+  
+    .devicons-spotify-icon:before {
+      content: "\f656";
+    }
+  
+    .devicons-spotify:before {
+      content: "\f655";
+    }
+  
+    .devicons-spree:before {
+      content: "\f657";
+    }
+  
+    .devicons-spring-icon:before {
+      content: "\f659";
+    }
+  
+    .devicons-spring:before {
+      content: "\f658";
+    }
+  
+    .devicons-sqlite-icon:before {
+      content: "\f65b";
+    }
+  
+    .devicons-sqlite:before {
+      content: "\f65a";
+    }
+  
+    .devicons-square:before {
+      content: "\f65c";
+    }
+  
+    .devicons-squarespace:before {
+      content: "\f65d";
+    }
+  
+    .devicons-sst-icon:before {
+      content: "\f65f";
+    }
+  
+    .devicons-sst:before {
+      content: "\f65e";
+    }
+  
+    .devicons-stability-ai-icon:before {
+      content: "\f661";
+    }
+  
+    .devicons-stability-ai:before {
+      content: "\f660";
+    }
+  
+    .devicons-stackbit-icon:before {
+      content: "\f663";
+    }
+  
+    .devicons-stackbit:before {
+      content: "\f662";
+    }
+  
+    .devicons-stackblitz-icon:before {
+      content: "\f665";
+    }
+  
+    .devicons-stackblitz:before {
+      content: "\f664";
+    }
+  
+    .devicons-stackoverflow-icon:before {
+      content: "\f667";
+    }
+  
+    .devicons-stackoverflow:before {
+      content: "\f666";
+    }
+  
+    .devicons-stackshare:before {
+      content: "\f668";
+    }
+  
+    .devicons-stately-icon:before {
+      content: "\f66a";
+    }
+  
+    .devicons-stately:before {
+      content: "\f669";
+    }
+  
+    .devicons-statuspage:before {
+      content: "\f66b";
+    }
+  
+    .devicons-stdlib-icon:before {
+      content: "\f66d";
+    }
+  
+    .devicons-stdlib:before {
+      content: "\f66c";
+    }
+  
+    .devicons-steam:before {
+      content: "\f66e";
+    }
+  
+    .devicons-stenciljs-icon:before {
+      content: "\f670";
+    }
+  
+    .devicons-stenciljs:before {
+      content: "\f66f";
+    }
+  
+    .devicons-stepsize-icon:before {
+      content: "\f672";
+    }
+  
+    .devicons-stepsize:before {
+      content: "\f671";
+    }
+  
+    .devicons-stetho:before {
+      content: "\f673";
+    }
+  
+    .devicons-stickermule:before {
+      content: "\f674";
+    }
+  
+    .devicons-stigg-icon:before {
+      content: "\f676";
+    }
+  
+    .devicons-stigg:before {
+      content: "\f675";
+    }
+  
+    .devicons-stimulus-icon:before {
+      content: "\f678";
+    }
+  
+    .devicons-stimulus:before {
+      content: "\f677";
+    }
+  
+    .devicons-stitch:before {
+      content: "\f679";
+    }
+  
+    .devicons-stoplight:before {
+      content: "\f67a";
+    }
+  
+    .devicons-storyblocks-icon:before {
+      content: "\f67c";
+    }
+  
+    .devicons-storyblocks:before {
+      content: "\f67b";
+    }
+  
+    .devicons-storyblok-icon:before {
+      content: "\f67e";
+    }
+  
+    .devicons-storyblok:before {
+      content: "\f67d";
+    }
+  
+    .devicons-storybook-icon:before {
+      content: "\f680";
+    }
+  
+    .devicons-storybook:before {
+      content: "\f67f";
+    }
+  
+    .devicons-strapi-icon:before {
+      content: "\f682";
+    }
+  
+    .devicons-strapi:before {
+      content: "\f681";
+    }
+  
+    .devicons-streamlit:before {
+      content: "\f683";
+    }
+  
+    .devicons-strider:before {
+      content: "\f684";
+    }
+  
+    .devicons-stripe:before {
+      content: "\f685";
+    }
+  
+    .devicons-struts:before {
+      content: "\f686";
+    }
+  
+    .devicons-styleci:before {
+      content: "\f687";
+    }
+  
+    .devicons-stylefmt:before {
+      content: "\f688";
+    }
+  
+    .devicons-stylelint:before {
+      content: "\f689";
+    }
+  
+    .devicons-stylis:before {
+      content: "\f68a";
+    }
+  
+    .devicons-stylus:before {
+      content: "\f68b";
+    }
+  
+    .devicons-stytch:before {
+      content: "\f68c";
+    }
+  
+    .devicons-sublimetext-icon:before {
+      content: "\f68e";
+    }
+  
+    .devicons-sublimetext:before {
+      content: "\f68d";
+    }
+  
+    .devicons-subversion:before {
+      content: "\f68f";
+    }
+  
+    .devicons-supabase-icon:before {
+      content: "\f691";
+    }
+  
+    .devicons-supabase:before {
+      content: "\f690";
+    }
+  
+    .devicons-supertokens-icon:before {
+      content: "\f693";
+    }
+  
+    .devicons-supertokens:before {
+      content: "\f692";
+    }
+  
+    .devicons-surrealdb-icon:before {
+      content: "\f695";
+    }
+  
+    .devicons-surrealdb:before {
+      content: "\f694";
+    }
+  
+    .devicons-survicate-icon:before {
+      content: "\f697";
+    }
+  
+    .devicons-survicate:before {
+      content: "\f696";
+    }
+  
+    .devicons-suse:before {
+      content: "\f698";
+    }
+  
+    .devicons-susy:before {
+      content: "\f699";
+    }
+  
+    .devicons-svelte-icon:before {
+      content: "\f69b";
+    }
+  
+    .devicons-svelte-kit:before {
+      content: "\f69c";
+    }
+  
+    .devicons-svelte:before {
+      content: "\f69a";
+    }
+  
+    .devicons-svg:before {
+      content: "\f69d";
+    }
+  
+    .devicons-svgator:before {
+      content: "\f69e";
+    }
+  
+    .devicons-swagger:before {
+      content: "\f69f";
+    }
+  
+    .devicons-swc:before {
+      content: "\f6a0";
+    }
+  
+    .devicons-swift:before {
+      content: "\f6a1";
+    }
+  
+    .devicons-swiftype:before {
+      content: "\f6a2";
+    }
+  
+    .devicons-swimm:before {
+      content: "\f6a3";
+    }
+  
+    .devicons-swr:before {
+      content: "\f6a4";
+    }
+  
+    .devicons-symfony:before {
+      content: "\f6a5";
+    }
+  
+    .devicons-sysdig-icon:before {
+      content: "\f6a7";
+    }
+  
+    .devicons-sysdig:before {
+      content: "\f6a6";
+    }
+  
+    .devicons-t3:before {
+      content: "\f6a8";
+    }
+  
+    .devicons-tableau-icon:before {
+      content: "\f6aa";
+    }
+  
+    .devicons-tableau:before {
+      content: "\f6a9";
+    }
+  
+    .devicons-tailwind-icon:before {
+      content: "\f6ac";
+    }
+  
+    .devicons-tailwind:before {
+      content: "\f6ab";
+    }
+  
+    .devicons-tapcart-icon:before {
+      content: "\f6ae";
+    }
+  
+    .devicons-tapcart:before {
+      content: "\f6ad";
+    }
+  
+    .devicons-taskade-icon:before {
+      content: "\f6b0";
+    }
+  
+    .devicons-taskade:before {
+      content: "\f6af";
+    }
+  
+    .devicons-tauri:before {
+      content: "\f6b1";
+    }
+  
+    .devicons-tealium:before {
+      content: "\f6b2";
+    }
+  
+    .devicons-teamcity:before {
+      content: "\f6b3";
+    }
+  
+    .devicons-teamgrid:before {
+      content: "\f6b4";
+    }
+  
+    .devicons-teamwork-icon:before {
+      content: "\f6b6";
+    }
+  
+    .devicons-teamwork:before {
+      content: "\f6b5";
+    }
+  
+    .devicons-telegram:before {
+      content: "\f6b7";
+    }
+  
+    .devicons-tensorflow:before {
+      content: "\f6b8";
+    }
+  
+    .devicons-terminal:before {
+      content: "\f6b9";
+    }
+  
+    .devicons-terraform-icon:before {
+      content: "\f6bb";
+    }
+  
+    .devicons-terraform:before {
+      content: "\f6ba";
+    }
+  
+    .devicons-terser-icon:before {
+      content: "\f6bd";
+    }
+  
+    .devicons-terser:before {
+      content: "\f6bc";
+    }
+  
+    .devicons-testcafe:before {
+      content: "\f6be";
+    }
+  
+    .devicons-testing-library:before {
+      content: "\f6bf";
+    }
+  
+    .devicons-testlodge:before {
+      content: "\f6c0";
+    }
+  
+    .devicons-threejs:before {
+      content: "\f6c1";
+    }
+  
+    .devicons-thymeleaf-icon:before {
+      content: "\f6c3";
+    }
+  
+    .devicons-thymeleaf:before {
+      content: "\f6c2";
+    }
+  
+    .devicons-tidal-icon:before {
+      content: "\f6c5";
+    }
+  
+    .devicons-tidal:before {
+      content: "\f6c4";
+    }
+  
+    .devicons-tiktok-icon:before {
+      content: "\f6c7";
+    }
+  
+    .devicons-tiktok:before {
+      content: "\f6c6";
+    }
+  
+    .devicons-tnw:before {
+      content: "\f6c8";
+    }
+  
+    .devicons-todoist-icon:before {
+      content: "\f6ca";
+    }
+  
+    .devicons-todoist:before {
+      content: "\f6c9";
+    }
+  
+    .devicons-todomvc:before {
+      content: "\f6cb";
+    }
+  
+    .devicons-together:before {
+      content: "\f6cc";
+    }
+  
+    .devicons-tomcat:before {
+      content: "\f6cd";
+    }
+  
+    .devicons-toml:before {
+      content: "\f6ce";
+    }
+  
+    .devicons-tor-browser:before {
+      content: "\f6d0";
+    }
+  
+    .devicons-tor:before {
+      content: "\f6cf";
+    }
+  
+    .devicons-traackr:before {
+      content: "\f6d1";
+    }
+  
+    .devicons-trac:before {
+      content: "\f6d2";
+    }
+  
+    .devicons-travis-ci:before {
+      content: "\f6d3";
+    }
+  
+    .devicons-treasuredata-icon:before {
+      content: "\f6d5";
+    }
+  
+    .devicons-treasuredata:before {
+      content: "\f6d4";
+    }
+  
+    .devicons-treehouse-icon:before {
+      content: "\f6d7";
+    }
+  
+    .devicons-treehouse:before {
+      content: "\f6d6";
+    }
+  
+    .devicons-trello:before {
+      content: "\f6d8";
+    }
+  
+    .devicons-trpc:before {
+      content: "\f6d9";
+    }
+  
+    .devicons-tsnode:before {
+      content: "\f6da";
+    }
+  
+    .devicons-tsuru:before {
+      content: "\f6db";
+    }
+  
+    .devicons-tumblr-icon:before {
+      content: "\f6dd";
+    }
+  
+    .devicons-tumblr:before {
+      content: "\f6dc";
+    }
+  
+    .devicons-tunein:before {
+      content: "\f6de";
+    }
+  
+    .devicons-tuple:before {
+      content: "\f6df";
+    }
+  
+    .devicons-turbopack-icon:before {
+      content: "\f6e1";
+    }
+  
+    .devicons-turbopack:before {
+      content: "\f6e0";
+    }
+  
+    .devicons-turborepo-icon:before {
+      content: "\f6e3";
+    }
+  
+    .devicons-turborepo:before {
+      content: "\f6e2";
+    }
+  
+    .devicons-turret:before {
+      content: "\f6e4";
+    }
+  
+    .devicons-twilio-icon:before {
+      content: "\f6e6";
+    }
+  
+    .devicons-twilio:before {
+      content: "\f6e5";
+    }
+  
+    .devicons-twitch:before {
+      content: "\f6e7";
+    }
+  
+    .devicons-twitter:before {
+      content: "\f6e8";
+    }
+  
+    .devicons-typeform-icon:before {
+      content: "\f6ea";
+    }
+  
+    .devicons-typeform:before {
+      content: "\f6e9";
+    }
+  
+    .devicons-typeorm:before {
+      content: "\f6eb";
+    }
+  
+    .devicons-typescript-icon-round:before {
+      content: "\f6ee";
+    }
+  
+    .devicons-typescript-icon:before {
+      content: "\f6ed";
+    }
+  
+    .devicons-typescript:before {
+      content: "\f6ec";
+    }
+  
+    .devicons-typesense-icon:before {
+      content: "\f6f0";
+    }
+  
+    .devicons-typesense:before {
+      content: "\f6ef";
+    }
+  
+    .devicons-typo3-icon:before {
+      content: "\f6f2";
+    }
+  
+    .devicons-typo3:before {
+      content: "\f6f1";
+    }
+  
+    .devicons-ubuntu:before {
+      content: "\f6f3";
+    }
+  
+    .devicons-udacity-icon:before {
+      content: "\f6f5";
+    }
+  
+    .devicons-udacity:before {
+      content: "\f6f4";
+    }
+  
+    .devicons-udemy-icon:before {
+      content: "\f6f7";
+    }
+  
+    .devicons-udemy:before {
+      content: "\f6f6";
+    }
+  
+    .devicons-uikit:before {
+      content: "\f6f8";
+    }
+  
+    .devicons-unbounce-icon:before {
+      content: "\f6fa";
+    }
+  
+    .devicons-unbounce:before {
+      content: "\f6f9";
+    }
+  
+    .devicons-undertow:before {
+      content: "\f6fb";
+    }
+  
+    .devicons-unitjs:before {
+      content: "\f6fc";
+    }
+  
+    .devicons-unito-icon:before {
+      content: "\f6fe";
+    }
+  
+    .devicons-unito:before {
+      content: "\f6fd";
+    }
+  
+    .devicons-unity:before {
+      content: "\f6ff";
+    }
+  
+    .devicons-unocss:before {
+      content: "\f700";
+    }
+  
+    .devicons-unrealengine-icon:before {
+      content: "\f702";
+    }
+  
+    .devicons-unrealengine:before {
+      content: "\f701";
+    }
+  
+    .devicons-upcase:before {
+      content: "\f703";
+    }
+  
+    .devicons-upstash-icon:before {
+      content: "\f705";
+    }
+  
+    .devicons-upstash:before {
+      content: "\f704";
+    }
+  
+    .devicons-upwork:before {
+      content: "\f706";
+    }
+  
+    .devicons-user-testing-icon:before {
+      content: "\f708";
+    }
+  
+    .devicons-user-testing:before {
+      content: "\f707";
+    }
+  
+    .devicons-uservoice-icon:before {
+      content: "\f70a";
+    }
+  
+    .devicons-uservoice:before {
+      content: "\f709";
+    }
+  
+    .devicons-uwsgi:before {
+      content: "\f70b";
+    }
+  
+    .devicons-v0:before {
+      content: "\f7be";
+    }
+  
+    .devicons-v8:before {
+      content: "\f70c";
+    }
+  
+    .devicons-vaadin:before {
+      content: "\f70d";
+    }
+  
+    .devicons-vaddy:before {
+      content: "\f70e";
+    }
+  
+    .devicons-vagrant-icon:before {
+      content: "\f710";
+    }
+  
+    .devicons-vagrant:before {
+      content: "\f70f";
+    }
+  
+    .devicons-vault-icon:before {
+      content: "\f712";
+    }
+  
+    .devicons-vault:before {
+      content: "\f711";
+    }
+  
+    .devicons-vector:before {
+      content: "\f713";
+    }
+  
+    .devicons-vercel-icon:before {
+      content: "\f715";
+    }
+  
+    .devicons-vercel:before {
+      content: "\f714";
+    }
+  
+    .devicons-verdaccio-icon:before {
+      content: "\f717";
+    }
+  
+    .devicons-verdaccio:before {
+      content: "\f716";
+    }
+  
+    .devicons-vernemq:before {
+      content: "\f718";
+    }
+  
+    .devicons-vim:before {
+      content: "\f719";
+    }
+  
+    .devicons-vimeo-icon:before {
+      content: "\f71b";
+    }
+  
+    .devicons-vimeo:before {
+      content: "\f71a";
+    }
+  
+    .devicons-visa:before {
+      content: "\f71c";
+    }
+  
+    .devicons-visaelectron:before {
+      content: "\f71d";
+    }
+  
+    .devicons-visual-studio-code:before {
+      content: "\f71f";
+    }
+  
+    .devicons-visual-studio:before {
+      content: "\f71e";
+    }
+  
+    .devicons-vite:before {
+      content: "\f720";
+    }
+  
+    .devicons-vitess:before {
+      content: "\f721";
+    }
+  
+    .devicons-vitest:before {
+      content: "\f722";
+    }
+  
+    .devicons-vivaldi-icon:before {
+      content: "\f724";
+    }
+  
+    .devicons-vivaldi:before {
+      content: "\f723";
+    }
+  
+    .devicons-vlang:before {
+      content: "\f725";
+    }
+  
+    .devicons-vue:before {
+      content: "\f726";
+    }
+  
+    .devicons-vuetify:before {
+      content: "\f727";
+    }
+  
+    .devicons-vueuse:before {
+      content: "\f728";
+    }
+  
+    .devicons-vulkan:before {
+      content: "\f729";
+    }
+  
+    .devicons-vultr-icon:before {
+      content: "\f72b";
+    }
+  
+    .devicons-vultr:before {
+      content: "\f72a";
+    }
+  
+    .devicons-vwo:before {
+      content: "\f72c";
+    }
+  
+    .devicons-w3c:before {
+      content: "\f72d";
+    }
+  
+    .devicons-waffle:before {
+      content: "\f72e";
+    }
+  
+    .devicons-wagtail:before {
+      content: "\f72f";
+    }
+  
+    .devicons-wakatime:before {
+      content: "\f730";
+    }
+  
+    .devicons-walkme:before {
+      content: "\f731";
+    }
+  
+    .devicons-watchman:before {
+      content: "\f732";
+    }
+  
+    .devicons-waypoint-icon:before {
+      content: "\f734";
+    }
+  
+    .devicons-waypoint:before {
+      content: "\f733";
+    }
+  
+    .devicons-wayscript-icon:before {
+      content: "\f736";
+    }
+  
+    .devicons-wayscript:before {
+      content: "\f735";
+    }
+  
+    .devicons-wearos:before {
+      content: "\f737";
+    }
+  
+    .devicons-weave:before {
+      content: "\f738";
+    }
+  
+    .devicons-web3js:before {
+      content: "\f739";
+    }
+  
+    .devicons-webassembly:before {
+      content: "\f73a";
+    }
+  
+    .devicons-webcomponents:before {
+      content: "\f73b";
+    }
+  
+    .devicons-webdev-icon:before {
+      content: "\f73d";
+    }
+  
+    .devicons-webdev:before {
+      content: "\f73c";
+    }
+  
+    .devicons-webdriverio:before {
+      content: "\f73e";
+    }
+  
+    .devicons-webflow:before {
+      content: "\f73f";
+    }
+  
+    .devicons-webgpu:before {
+      content: "\f740";
+    }
+  
+    .devicons-webhint-icon:before {
+      content: "\f742";
+    }
+  
+    .devicons-webhint:before {
+      content: "\f741";
+    }
+  
+    .devicons-webhooks:before {
+      content: "\f743";
+    }
+  
+    .devicons-webix-icon:before {
+      content: "\f745";
+    }
+  
+    .devicons-webix:before {
+      content: "\f744";
+    }
+  
+    .devicons-webkit:before {
+      content: "\f746";
+    }
+  
+    .devicons-webmin:before {
+      content: "\f747";
+    }
+  
+    .devicons-webpack:before {
+      content: "\f748";
+    }
+  
+    .devicons-webplatform:before {
+      content: "\f749";
+    }
+  
+    .devicons-webrtc:before {
+      content: "\f74a";
+    }
+  
+    .devicons-websocket:before {
+      content: "\f74b";
+    }
+  
+    .devicons-webstorm:before {
+      content: "\f74c";
+    }
+  
+    .devicons-webtorrent:before {
+      content: "\f74d";
+    }
+  
+    .devicons-weebly:before {
+      content: "\f74e";
+    }
+  
+    .devicons-whalar-icon:before {
+      content: "\f750";
+    }
+  
+    .devicons-whalar:before {
+      content: "\f74f";
+    }
+  
+    .devicons-whatsapp-icon:before {
+      content: "\f752";
+    }
+  
+    .devicons-whatsapp:before {
+      content: "\f751";
+    }
+  
+    .devicons-whatwg:before {
+      content: "\f753";
+    }
+  
+    .devicons-wicket-icon:before {
+      content: "\f755";
+    }
+  
+    .devicons-wicket:before {
+      content: "\f754";
+    }
+  
+    .devicons-wifi:before {
+      content: "\f756";
+    }
+  
+    .devicons-wildfly:before {
+      content: "\f757";
+    }
+  
+    .devicons-windi-css:before {
+      content: "\f758";
+    }
+  
+    .devicons-windsurf-icon:before {
+      content: "\f7bf";
+    }
+  
+    .devicons-windsurf:before {
+      content: "\f7c0";
+    }
+  
+    .devicons-winglang-icon:before {
+      content: "\f75a";
+    }
+  
+    .devicons-winglang:before {
+      content: "\f759";
+    }
+  
+    .devicons-wire:before {
+      content: "\f75b";
+    }
+  
+    .devicons-wix:before {
+      content: "\f75c";
+    }
+  
+    .devicons-woocommerce-icon:before {
+      content: "\f75e";
+    }
+  
+    .devicons-woocommerce:before {
+      content: "\f75d";
+    }
+  
+    .devicons-woopra:before {
+      content: "\f75f";
+    }
+  
+    .devicons-wordpress-icon-alt:before {
+      content: "\f762";
+    }
+  
+    .devicons-wordpress-icon:before {
+      content: "\f761";
+    }
+  
+    .devicons-wordpress:before {
+      content: "\f760";
+    }
+  
+    .devicons-workboard:before {
+      content: "\f763";
+    }
+  
+    .devicons-workos-icon:before {
+      content: "\f765";
+    }
+  
+    .devicons-workos:before {
+      content: "\f764";
+    }
+  
+    .devicons-workplace-icon:before {
+      content: "\f767";
+    }
+  
+    .devicons-workplace:before {
+      content: "\f766";
+    }
+  
+    .devicons-wpengine:before {
+      content: "\f768";
+    }
+  
+    .devicons-wufoo:before {
+      content: "\f769";
+    }
+  
+    .devicons-xai:before {
+      content: "\f76a";
+    }
+  
+    .devicons-xamarin:before {
+      content: "\f76b";
+    }
+  
+    .devicons-xampp:before {
+      content: "\f76c";
+    }
+  
+    .devicons-xata-icon:before {
+      content: "\f76e";
+    }
+  
+    .devicons-xata:before {
+      content: "\f76d";
+    }
+  
+    .devicons-xcart:before {
+      content: "\f76f";
+    }
+  
+    .devicons-xcode:before {
+      content: "\f770";
+    }
+  
+    .devicons-xero:before {
+      content: "\f771";
+    }
+  
+    .devicons-xray:before {
+      content: "\f772";
+    }
+  
+    .devicons-xstate:before {
+      content: "\f773";
+    }
+  
+    .devicons-xtend:before {
+      content: "\f774";
+    }
+  
+    .devicons-xwiki-icon:before {
+      content: "\f776";
+    }
+  
+    .devicons-xwiki:before {
+      content: "\f775";
+    }
+  
+    .devicons-yahoo:before {
+      content: "\f777";
+    }
+  
+    .devicons-yaml:before {
+      content: "\f778";
+    }
+  
+    .devicons-yammer:before {
+      content: "\f779";
+    }
+  
+    .devicons-yandex:before {
+      content: "\f77a";
+    }
+  
+    .devicons-yarn:before {
+      content: "\f77b";
+    }
+  
+    .devicons-ycombinator:before {
+      content: "\f77c";
+    }
+  
+    .devicons-yii:before {
+      content: "\f77d";
+    }
+  
+    .devicons-youtrack:before {
+      content: "\f77e";
+    }
+  
+    .devicons-youtube-icon:before {
+      content: "\f780";
+    }
+  
+    .devicons-youtube:before {
+      content: "\f77f";
+    }
+  
+    .devicons-yugabyte-icon:before {
+      content: "\f782";
+    }
+  
+    .devicons-yugabyte:before {
+      content: "\f781";
+    }
+  
+    .devicons-zabbix:before {
+      content: "\f783";
+    }
+  
+    .devicons-zai:before {
+      content: "\f784";
+    }
+  
+    .devicons-zapier:before {
+      content: "\f785";
+    }
+  
+    .devicons-zend-framework:before {
+      content: "\f786";
+    }
+  
+    .devicons-zendesk-icon:before {
+      content: "\f788";
+    }
+  
+    .devicons-zendesk:before {
+      content: "\f787";
+    }
+  
+    .devicons-zenhub-icon:before {
+      content: "\f78a";
+    }
+  
+    .devicons-zenhub:before {
+      content: "\f789";
+    }
+  
+    .devicons-zeroheight-icon:before {
+      content: "\f78c";
+    }
+  
+    .devicons-zeroheight:before {
+      content: "\f78b";
+    }
+  
+    .devicons-zig:before {
+      content: "\f78d";
+    }
+  
+    .devicons-zod:before {
+      content: "\f78e";
+    }
+  
+    .devicons-zoom-icon:before {
+      content: "\f790";
+    }
+  
+    .devicons-zoom:before {
+      content: "\f78f";
+    }
+  
+    .devicons-zorin-os:before {
+      content: "\f791";
+    }
+  
+    .devicons-zsh:before {
+      content: "\f792";
+    }
+  
+    .devicons-zube:before {
+      content: "\f793";
+    }
+  
+    .devicons-zulip-icon:before {
+      content: "\f795";
+    }
+  
+    .devicons-zulip:before {
+      content: "\f794";
+    }
+  
+    .devicons-zwave:before {
+      content: "\f796";
+    }
+  

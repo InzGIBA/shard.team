@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "services": "Services",
+    "stack": "Tech Stack",
+    "work": "Work",
+    "cta": "Start Project"
+  },
+  "hero": {
+    "badge": "Available for new projects",
+    "title": {
+      "line1": "Engineering modern",
+      "line2": "web experiences."
+    },
+    "description": "We are a modern IT company building scalable, high-performance applications. We leverage diverse technology stacks to deliver robust solutions for clients globally.",
+    "cta": {
+      "primary": "Discuss your project",
+      "secondary": "Explore our services"
+    }
+  },
+  "stack": {
+    "title": "Technologies we master",
+    "react": "React",
+    "nextjs": "Next.js",
+    "vue": "Vue",
+    "nuxt": "Nuxt",
+    "nodejs": "Node.js",
+    "postgres": "PostgreSQL",
+    "aws": "AWS",
+    "python": "Python",
+    "go": "Go",
+    "typescript": "TypeScript",
+    "docker": "Docker",
+    "k8s": "Kubernetes",
+    "graphql": "GraphQL",
+    "redis": "Redis"
+  },
+  "services": {
+    "title": "Core Competencies",
+    "subtitle": "From concept to deployment, we handle the entire lifecycle of modern web application development with precision.",
+    "frontend": {
+      "title": "Frontend Development",
+      "desc": "Building responsive, accessible, and highly interactive user interfaces using modern frameworks like React and Vue, ensuring seamless performance across all devices."
+    },
+    "backend": {
+      "title": "Backend Architecture",
+      "desc": "Designing scalable microservices and robust APIs. We ensure your data is secure, structured efficiently, and served rapidly using Node.js, Python, or Go."
+    },
+    "design": {
+      "title": "UI/UX Design",
+      "desc": "Crafting intuitive and aesthetically pleasing digital experiences. We focus on user-centric design principles to increase engagement and conversion rates."
+    }
+  },
+  "cta": {
+    "title": "Ready to scale your product?",
+    "subtitle": "Let\u2019s discuss your technical requirements and see how our team can help you achieve your business goals.",
+    "button": "Contact Us"
+  },
+  "form": {
+    "name": "Name",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "Your Email",
+    "message": "Message",
+    "messagePlaceholder": "Briefly describe your project",
+    "submit": "Send Request",
+    "success": "Thank you! We\u2019ll get back to you soon."
+  },
+  "footer": {
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "github": "GitHub"
+  }
+}
